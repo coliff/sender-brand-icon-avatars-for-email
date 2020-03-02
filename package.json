@@ -1,0 +1,21 @@
+{
+  "name": "sender-brand-icon-avatars-for-email",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The .CSV used to generate the CSS for Sender Avatar Icons Browser Extensions",
+  "homepage": "https://github.com/coliff/sender-brand-icon-avatars-for-email",
+  "bugs": {
+    "url": "https://github.com/coliff/sender-brand-icon-avatars-for-email/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coliff/sender-brand-icon-avatars-for-email"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "C.Oliff",
+    "email": "code@christianoliff.com",
+    "url": "https://christianoliff.com"
+  },
+  "main": "emails.csv"
+}
