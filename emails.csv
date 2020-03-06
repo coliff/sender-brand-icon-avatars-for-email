@@ -250,6 +250,7 @@ email-match,@goodreads.com,fa-icon,goodreads-g,end
 email-match,.goodreads.com,fa-icon,goodreads-g,end
 email-match,local-guides@google.com,fa-icon,google,end
 email-match,maps-timeline@google.com,fa-icon,google,end
+email-match,noreply-analytics@google.com,fa-icon,google,end
 email-match,noreply-maps-issues@google.com,fa-icon,google,end
 email-match,noreply+feedproxy@google.com,fa-icon,google,end
 email-match,photos@google.com,fa-icon,google,end
