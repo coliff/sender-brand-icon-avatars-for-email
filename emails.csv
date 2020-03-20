@@ -176,6 +176,8 @@ email-match,@dochub.com,fa-icon,dochub,end
 email-match,.dochub.com,fa-icon,dochub,end
 email-match,@docker.com,fa-icon,docker,end
 email-match,.docker.com,fa-icon,docker,end
+email-match,@draft2digital.com,fa-icon,draft2digital,end
+email-match,.draft2digital.com,fa-icon,draft2digital,end
 email-match,@dribbble.com,fa-icon,dribbble,end
 email-match,.dribbble.com,fa-icon,dribbble,end
 email-match,@dropbox.com,fa-icon,dropbox,end
@@ -541,8 +543,12 @@ email-match,.swift.org,fa-icon,swift,end
 email-match,@symfony.com,fa-icon,symfony,end
 email-match,.symfony.com,fa-icon,symfony,end
 
+email-match,@teamspeak.com,fa-icon,teamspeak,end
+email-match,.teamspeak.com,fa-icon,teamspeak,end
 email-match,@telegram.org,fa-icon,telegram,end
 email-match,.telegram.org,fa-icon,telegram,end
+email-match,@thinkpeaks.com,fa-icon,think-peaks,end
+email-match,.thinkpeaks.com,fa-icon,think-peaks,end
 email-match,@trello.com,fa-icon,trello,end
 email-match,.trello.com,fa-icon,trello,end
 email-match,@tripadvisor.com,fa-icon,tripadvisor,end
