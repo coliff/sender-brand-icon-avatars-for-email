@@ -196,6 +196,8 @@ email-match,.ebay.co.uk,fa-icon,ebay,end
 email-match,@ebay.de,fa-icon,ebay,end
 email-match,@ebay.fr,fa-icon,ebay,end
 email-match,@ebay.it,fa-icon,ebay,end
+email-match,@elementor.com,fa-icon,elementor,end
+email-match,.elementor.com,fa-icon,elementor,end
 email-match,@ello.co,fa-icon,ello,end
 email-match,.ello.co,fa-icon,ello,end
 email-match,@emberjs.com,fa-icon,ember,end
