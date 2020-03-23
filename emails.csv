@@ -368,6 +368,8 @@ email-match,@medapps.com.au,fa-icon,medapps,end
 email-match,.medapps.com.au,fa-icon,medapps,end
 email-match,@medium.com,fa-icon,medium,end
 email-match,.medium.com,fa-icon,medium,end
+email-match,@medrt.com,fa-icon,medrt,end
+email-match,.medrt.com,fa-icon,medrt,end
 email-match,@meetup.com,fa-icon,meetup,end
 email-match,.meetup.com,fa-icon,meetup,end
 email-match,@micro.blog,fa-icon,microblog,end
