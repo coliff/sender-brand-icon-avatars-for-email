@@ -264,6 +264,7 @@ email-match,noreply-maps-issues@google.com,fa-icon,google,end
 email-match,noreply+feedproxy@google.com,fa-icon,google,end
 email-match,photos@google.com,fa-icon,google,end
 email-match,-noreply@google.com,fa-icon,google,end
+email-match,-travel@google.com,fa-icon,google,end
 email-match,sharing@google.com,fa-icon,google,end
 email-match,suppport@google.com,fa-icon,google,end
 email-match,.google.com,fa-icon,google,end
