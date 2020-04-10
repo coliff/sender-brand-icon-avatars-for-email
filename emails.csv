@@ -609,6 +609,8 @@ email-match,@weibo.com,fa-icon,weibo,end
 email-match,.weibo.com,fa-icon,weibo,end
 email-match,@whatsapp.com,fa-icon,whatsapp,end
 email-match,.whatsapp.com,fa-icon,whatsapp,end
+email-match,@whmcs.com,fa-icon,whmcs,end
+email-match,.whmcs.com,fa-icon,whmcs,end
 email-match,@wikimedia.org,fa-icon,wikipedia-w,end
 email-match,.wikimedia.org,fa-icon,wikipedia-w,end
 email-match,@wikipedia.org,fa-icon,wikipedia-w,end
@@ -631,6 +633,7 @@ email-match,@wpexplorer.com,fa-icon,wpexplorer,end
 email-match,.wpexplorer.com,fa-icon,wpexplorer,end
 email-match,@wpforms.com,fa-icon,wpforms,end
 email-match,.wpforms.com,fa-icon,wpforms,end
+email-match,@wpressr.com,fa-icon,wpressr,end
 email-match,.wpressr.com,fa-icon,wpressr,end
 
 email-match,@xbox.com,fa-icon,xbox,end
@@ -646,6 +649,8 @@ email-match,@yahoo-inc.com,fa-icon,yahoo,end
 email-match,.yahoo-inc.com,fa-icon,yahoo,end
 email-match,@yammer.com,fa-icon,yammer,end
 email-match,.yammer.com,fa-icon,yammer,end
+email-match,.yandex.com,fa-icon,yandex,end
+email-match,.yandex.ru,fa-icon,yandex,end
 email-match,@yarn.com,fa-icon,yarn,end
 email-match,.yarn.com,fa-icon,yarn,end
 email-match,@yelp.com,fa-icon,yelp,end
