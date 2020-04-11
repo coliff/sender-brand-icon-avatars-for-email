@@ -592,6 +592,10 @@ email-match,@teamspeak.com,fa-icon,teamspeak,end
 email-match,.teamspeak.com,fa-icon,teamspeak,end
 email-match,@telegram.org,fa-icon,telegram,end
 email-match,.telegram.org,fa-icon,telegram,end
+email-match,@theme.co,fa-icon,themeco,end
+email-match,.theme.co,fa-icon,themeco,end
+email-match,@themeisle.com,fa-icon,themeisle,end
+email-match,.themeisle.com,fa-icon,themeisle,end
 email-match,@thinkpeaks.com,fa-icon,think-peaks,end
 email-match,.thinkpeaks.com,fa-icon,think-peaks,end
 email-match,@trello.com,fa-icon,trello,end
@@ -604,9 +608,13 @@ email-match,@twitch.tv,fa-icon,twitch,end
 email-match,.twitch.tv,fa-icon,twitch,end
 email-match,@twitter.com,fa-icon,twitter,end
 email-match,.twitter.com,fa-icon,twitter,end
+email-match,@typo3.com,fa-icon,typo3,end
+email-match,.typo3.com,fa-icon,typo3,end
+email-match,@typo3.org,fa-icon,typo3,end
+email-match,.typo3.org,fa-icon,typo3,end
 
-email-match,@uber.com,fa-icon,ubuntu,end
-email-match,.uber.com,fa-icon,ubuntu,end
+email-match,@uber.com,fa-icon,uber,end
+email-match,.uber.com,fa-icon,uber,end
 email-match,@ubuntu.com,fa-icon,ubuntu,end
 email-match,.ubuntu.com,fa-icon,ubuntu,end
 email-match,@getuikit.com,fa-icon,uikit,end
