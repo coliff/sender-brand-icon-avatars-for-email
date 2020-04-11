@@ -506,6 +506,8 @@ email-match,@shopify.com,fa-icon,shopify,end
 email-match,.shopify.com,fa-icon,shopify,end
 email-match,@simplybuilt.com,fa-icon,simplybuilt,end
 email-match,.simplybuilt.com,fa-icon,simplybuilt,end
+email-match,@sketch.com,fa-icon,sketch,end
+email-match,.sketch.com,fa-icon,sketch,end
 email-match,@skype.com,fa-icon,skype,end
 email-match,.skype.com,fa-icon,skype,end
 email-match,@skype.de,fa-icon,skype,end
@@ -522,6 +524,8 @@ email-match,@slack.com,fa-icon,slack,end
 email-match,.slack.com,fa-icon,slack,end
 email-match,@slackhq.com,fa-icon,slack,end
 email-match,.slackhq.com,fa-icon,slack,end
+email-match,@snapchat.com,fa-icon,snapchat,end
+email-match,.snapchat.com,fa-icon,snapchat,end
 email-match,@soundcloud.com,fa-icon,soundcloud,end
 email-match,.soundcloud.com,fa-icon,soundcloud,end
 email-match,@soundcloudmail.com,fa-icon,soundcloud,end
@@ -539,8 +543,14 @@ email-match,.stackoverflow.email,fa-icon,stack-overflow,end
 email-match,.stackoverflow.email,fa-icon,stack-overflow,end
 email-match,@stackpath.com,fa-icon,stackpath,end
 email-match,.stackpath.com,fa-icon,stackpath,end
+email-match,@staylinked.com,fa-icon,staylinked,end
+email-match,.staylinked.com,fa-icon,staylinked,end
 email-match,@steampowered.com,fa-icon,steam,end
 email-match,.steampowered.com,fa-icon,steam,end
+email-match,@strava.com,fa-icon,strava,end
+email-match,.strava.com,fa-icon,strava,end
+email-match,@studiovinari.com,fa-icon,studiovinari,end
+email-match,.studiovinari.com,fa-icon,studiovinari,end
 email-match,@stripe.com,fa-icon,stripe,end
 email-match,.stripe.com,fa-icon,stripe,end
 email-match,@swift.org,fa-icon,swift,end
