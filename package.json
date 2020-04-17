@@ -14,7 +14,6 @@
   "license": "MIT",
   "author": {
     "name": "C.Oliff",
-    "email": "code@christianoliff.com",
     "url": "https://christianoliff.com"
   },
   "main": "emails.csv"
