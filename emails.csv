@@ -377,6 +377,8 @@ email-match,@medrt.com,fa-icon,medrt,end
 email-match,.medrt.com,fa-icon,medrt,end
 email-match,@meetup.com,fa-icon,meetup,end
 email-match,.meetup.com,fa-icon,meetup,end
+email-match,@megaport.com,fa-icon,megaport,end
+email-match,.megaport.com,fa-icon,megaport,end
 email-match,@micro.blog,fa-icon,microblog,end
 email-match,.micro.blog,fa-icon,microblog,end
 email-match,@appcenter.ms,fa-icon,microsoft,end
