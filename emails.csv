@@ -471,6 +471,8 @@ email-match,@sonyentertainmentnetwork.com,fa-icon,playstation,end
 email-match,.sonyentertainmentnetwork.com,fa-icon,playstation,end
 email-match,@producthunt.com,fa-icon,product-hunt,end
 email-match,.producthunt.com,fa-icon,product-hunt,end
+email-match,@pushed.co,fa-icon,pushed,end
+email-match,.pushed.co,fa-icon,pushed,end
 email-match,@python.org,fa-icon,python,end
 email-match,.python.org,fa-icon,python,end
 
@@ -489,10 +491,8 @@ email-match,@reactjs.org,fa-icon,react,end
 email-match,.reactjs.org,fa-icon,react,end
 email-match,@react-europe.org,fa-icon,reacteurope,end
 email-match,.react-europe.org,fa-icon,reacteurope,end
-
 email-match,@readme.com,fa-icon,readme,end
 email-match,.readme.com,fa-icon,readme,end
-
 email-match,@starwars.com,fa-icon,rebel,end
 email-match,.starwars.com,fa-icon,rebel,end
 email-match,@reddit.com,fa-icon,reddit,end
