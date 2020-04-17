@@ -348,6 +348,8 @@ email-match,@last.fm,fa-icon,lastfm,end
 email-match,.last.fm,fa-icon,lastfm,end
 email-match,@leanpub.com,fa-icon,leanpub,end
 email-match,.leanpub.com,fa-icon,leanpub,end
+email-match,@lesscss.org,fa-icon,less,end
+email-match,.lesscss.org,fa-icon,less,end
 email-match,@line.me,fa-icon,line,end
 email-match,.line.me,fa-icon,line,end
 email-match,@linkedin.com,fa-icon,linkedin,end
