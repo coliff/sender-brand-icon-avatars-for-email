@@ -560,6 +560,8 @@ email-match,@soundcloudmail.com,fa-icon,soundcloud,end
 email-match,.soundcloudmail.com,fa-icon,soundcloud,end
 email-match,@speakap.com,fa-icon,speakap,end
 email-match,.speakap.com,fa-icon,speakap,end
+email-match,@speakerdeck.com,fa-icon,speaker-deck,end
+email-match,.speakerdeck.com,fa-icon,speaker-deck,end
 email-match,@spotify.com,fa-icon,spotify,end
 email-match,.spotify.com,fa-icon,spotify,end
 email-match,@squarespace.com,fa-icon,squarespace,end
