@@ -600,6 +600,8 @@ email-match,@teamspeak.com,fa-icon,teamspeak,end
 email-match,.teamspeak.com,fa-icon,teamspeak,end
 email-match,@telegram.org,fa-icon,telegram,end
 email-match,.telegram.org,fa-icon,telegram,end
+email-match,@t.qq.com,fa-icon,tencent-weibo,end
+email-match,.t.qq.com,fa-icon,tencent-weibo,end
 email-match,@theme.co,fa-icon,themeco,end
 email-match,.theme.co,fa-icon,themeco,end
 email-match,@themeisle.com,fa-icon,themeisle,end
@@ -637,6 +639,8 @@ email-match,@untappd.com,fa-icon,untappd,end
 email-match,.untappd.com,fa-icon,untappd,end
 email-match,@ups.com,fa-icon,ups,end
 email-match,.ups.com,fa-icon,ups,end
+email-match,@usb.org,fa-icon,usb,end
+email-match,.usb.org,fa-icon,usb,end
 email-match,@usps.com,fa-icon,usps,end
 email-match,.usps.com,fa-icon,usps,end
 email-match,@ussunnah.org,fa-icon,ussunnah,end
