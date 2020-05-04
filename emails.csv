@@ -111,6 +111,8 @@ email-match,.bueromoebel-experte.de,fa-icon,buromobelexperte,end
 email-match,@buysellads.com,fa-icon,buysellads,end
 email-match,.buysellads.com,fa-icon,buysellads,end
 
+email-match,@americanexpress.com,fa-icon,cc-amex,end
+email-match,.americanexpress.com,fa-icon,cc-amex,end
 email-match,@mastercard.com,fa-icon,cc-mastercard,end
 email-match,.mastercard.com,fa-icon,cc-mastercard,end
 email-match,@mastercard.co.uk,fa-icon,cc-mastercard,end
@@ -194,6 +196,8 @@ email-match,.drupal.com,fa-icon,drupal,end
 email-match,@dyalog.com,fa-icon,dyalog,end
 email-match,.dyalog.com,fa-icon,dyalog,end
 
+email-match,@ebay.ca,fa-icon,ebay,end
+email-match,.ebay.ca,fa-icon,ebay,end
 email-match,@ebay.com,fa-icon,ebay,end
 email-match,.ebay.com,fa-icon,ebay,end
 email-match,@ebayglobalshipping.com,fa-icon,ebay,end
