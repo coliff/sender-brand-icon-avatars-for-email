@@ -113,6 +113,8 @@ email-match,.buysellads.com,fa-icon,buysellads,end
 
 email-match,@mastercard.com,fa-icon,cc-mastercard,end
 email-match,.mastercard.com,fa-icon,cc-mastercard,end
+email-match,@mastercard.co.uk,fa-icon,cc-mastercard,end
+email-match,.mastercard.co.uk,fa-icon,cc-mastercard,end
 email-match,@visa.com,fa-icon,cc-visa,end
 email-match,.visa.com,fa-icon,cc-visa,end
 email-match,@visa.co.jp,fa-icon,cc-visa,end
