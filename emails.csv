@@ -117,6 +117,8 @@ email-match,@mastercard.com,fa-icon,cc-mastercard,end
 email-match,.mastercard.com,fa-icon,cc-mastercard,end
 email-match,@mastercard.co.uk,fa-icon,cc-mastercard,end
 email-match,.mastercard.co.uk,fa-icon,cc-mastercard,end
+email-match,@mastercard.de,fa-icon,cc-mastercard,end
+email-match,.mastercard.de,fa-icon,cc-mastercard,end
 email-match,@mastercard.fr,fa-icon,cc-mastercard,end
 email-match,.mastercard.fr,fa-icon,cc-mastercard,end
 email-match,@visa.com,fa-icon,cc-visa,end
@@ -198,6 +200,10 @@ email-match,.drupal.com,fa-icon,drupal,end
 email-match,@dyalog.com,fa-icon,dyalog,end
 email-match,.dyalog.com,fa-icon,dyalog,end
 
+email-match,@ebay.at,fa-icon,ebay,end
+email-match,.ebay.at,fa-icon,ebay,end
+email-match,@ebay.be,fa-icon,ebay,end
+email-match,.ebay.be,fa-icon,ebay,end
 email-match,@ebay.ca,fa-icon,ebay,end
 email-match,.ebay.ca,fa-icon,ebay,end
 email-match,@ebay.com,fa-icon,ebay,end
@@ -207,8 +213,17 @@ email-match,.ebayglobalshipping.com,fa-icon,ebay,end
 email-match,@ebay.co.uk,fa-icon,ebay,end
 email-match,.ebay.co.uk,fa-icon,ebay,end
 email-match,@ebay.de,fa-icon,ebay,end
+email-match,.ebay.de,fa-icon,ebay,end
+email-match,@ebay.es,fa-icon,ebay,end
+email-match,.ebay.es,fa-icon,ebay,end
 email-match,@ebay.fr,fa-icon,ebay,end
+email-match,.ebay.fr,fa-icon,ebay,end
+email-match,@ebay.ie,fa-icon,ebay,end
+email-match,.ebay.ie,fa-icon,ebay,end
 email-match,@ebay.it,fa-icon,ebay,end
+email-match,.ebay.it,fa-icon,ebay,end
+email-match,@ebay.se,fa-icon,ebay,end
+email-match,.ebay.se,fa-icon,ebay,end
 email-match,@elementor.com,fa-icon,elementor,end
 email-match,.elementor.com,fa-icon,elementor,end
 email-match,@ello.co,fa-icon,ello,end
