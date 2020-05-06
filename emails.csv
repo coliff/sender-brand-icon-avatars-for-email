@@ -710,6 +710,8 @@ email-match,@windowsphone.com,fa-icon,windows,end
 email-match,.windowsphone.com,fa-icon,windows,end
 email-match,@wix.com,fa-icon,wix,end
 email-match,.wix.com,fa-icon,wix,end
+email-match,@wizards.com,fa-icon,wizards-of-the-coast,end
+email-match,.wizards.com,fa-icon,wizards-of-the-coast,end
 email-match,@wordpress.com,fa-icon,wordpress,end
 email-match,.wordpress.com,fa-icon,wordpress,end
 email-match,@wordpress.org,fa-icon,wordpress,end
