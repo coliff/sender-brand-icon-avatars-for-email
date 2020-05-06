@@ -7,6 +7,7 @@ email-match,@adobesystems.com,fa-icon,adobe,end
 email-match,.adobesystems.com,fa-icon,adobe,end
 email-match,@adobe.com,fa-icon,adobe,end
 email-match,.adobe.com,fa-icon,adobe,end
+email-match,@email-adoberevel.com,fa-icon,adobe,end
 email-match,@adversal.com,fa-icon,adversal,end
 email-match,.adversal.com,fa-icon,adversal,end
 email-match,@affiliatetheme.io,fa-icon,affiliatetheme,end
@@ -70,6 +71,7 @@ email-match,@apper.com,fa-icon,apper,end
 email-match,.apper.com,fa-icon,apper,end
 email-match,@apple.com,fa-icon,apple,end
 email-match,.apple.com,fa-icon,apple,end
+email-match,@inside.icloud.com,fa-icon,apple,end
 email-match,@asymmetrik.com,fa-icon,asymmetrik,end
 email-match,.asymmetrik.com,fa-icon,asymmetrik,end
 email-match,@atlassian.com,fa-icon,atlassian,end
@@ -242,8 +244,9 @@ email-match,@expeditedssl.com,fa-icon,expeditedssl,end
 email-match,.expeditedssl.com,fa-icon,expeditedssl,end
 
 email-match,@facebook.com,fa-icon,facebook,end
-email-match,@facebookmail.com,fa-icon,facebook,end
 email-match,.facebook.com,fa-icon,facebook,end
+email-match,@facebookmail.com,fa-icon,facebook,end
+email-match,.facebookmail.com,fa-icon,facebook,end
 email-match,@fedex.com,fa-icon,fedex,end
 email-match,.fedex.com,fa-icon,fedex,end
 email-match,.@getfedora.org,fa-icon,fedora,end
