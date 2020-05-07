@@ -199,6 +199,8 @@ email-match,@dropboxmail.com,fa-icon,dropbox,end
 email-match,.dropboxmail.com,fa-icon,dropbox,end
 email-match,@drupal.com,fa-icon,drupal,end
 email-match,.drupal.com,fa-icon,drupal,end
+email-match,@drupal.org,fa-icon,drupal,end
+email-match,.drupal.org,fa-icon,drupal,end
 email-match,@dyalog.com,fa-icon,dyalog,end
 email-match,.dyalog.com,fa-icon,dyalog,end
 
@@ -284,17 +286,17 @@ email-match,@gofore.com,fa-icon,gofore,end
 email-match,.gofore.com,fa-icon,gofore,end
 email-match,@goodreads.com,fa-icon,goodreads-g,end
 email-match,.goodreads.com,fa-icon,goodreads-g,end
-email-match,local-guides@google.com,fa-icon,google,end
-email-match,maps-timeline@google.com,fa-icon,google,end
-email-match,noreply-analytics@google.com,fa-icon,google,end
-email-match,noreply-maps-issues@google.com,fa-icon,google,end
-email-match,noreply+feedproxy@google.com,fa-icon,google,end
-email-match,photos@google.com,fa-icon,google,end
+email-match,-analytics@google.com,fa-icon,google,end
+email-match,-guides@google.com,fa-icon,google,end
+email-match,-issues@google.com,fa-icon,google,end
 email-match,-noreply@google.com,fa-icon,google,end
 email-match,-system@google.com,fa-icon,google,end
+email-match,-timeline@google.com,fa-icon,google,end
 email-match,-travel@google.com,fa-icon,google,end
+email-match,+feedproxy@google.com,fa-icon,google,end
+email-match,photos@google.com,fa-icon,google,end
 email-match,sharing@google.com,fa-icon,google,end
-email-match,suppport@google.com,fa-icon,google,end
+email-match,support@google.com,fa-icon,google,end
 email-match,.google.com,fa-icon,google,end
 email-match,@googleforwork.com,fa-icon,google,end
 email-match,drive-shares-noreply@google.com,fa-icon,google-drive,end
@@ -484,6 +486,12 @@ email-match,@paypal.com,fa-icon,paypal,end
 email-match,.paypal.com,fa-icon,paypal,end
 email-match,@paypal.co.uk,fa-icon,paypal,end
 email-match,.paypal.co.uk,fa-icon,paypal,end
+email-match,@paypal.de,fa-icon,paypal,end
+email-match,.paypal.de,fa-icon,paypal,end
+email-match,@paypal.fr,fa-icon,paypal,end
+email-match,.paypal.fr,fa-icon,paypal,end
+email-match,@paypal.it,fa-icon,paypal,end
+email-match,.paypal.it,fa-icon,paypal,end
 email-match,@paypal-customerfeedback.com,fa-icon,paypal,end
 email-match,.paypal-customerfeedback.com,fa-icon,paypal,end
 email-match,@penny-arcade.com,fa-icon,penny-arcade,end
