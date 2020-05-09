@@ -549,6 +549,8 @@ email-match,.rockrms.com,fa-icon,rockrms,end
 
 email-match,@salesforce.com,fa-icon,salesforce,end
 email-match,.salesforce.com,fa-icon,salesforce,end
+email-match,@salesforce.org,fa-icon,salesforce,end
+email-match,.salesforce.org,fa-icon,salesforce,end
 email-match,@sass-lang.com,fa-icon,sass,end
 email-match,.sass-lang.com,fa-icon,sass,end
 email-match,@schlix.com,fa-icon,schlix,end
