@@ -425,6 +425,7 @@ email-match,@microsoftemails.com,fa-icon,microsoft,end
 email-match,.microsoftemails.com,fa-icon,microsoft,end
 email-match,@microsoftonline.com,fa-icon,microsoft,end
 email-match,.microsoftonline.com,fa-icon,microsoft,end
+email-match,@microsoftstoreemail.com,fa-icon,microsoft,end
 email-match,@microsoftrewards.com,fa-icon,microsoft,end
 email-match,.microsoftrewards.com,fa-icon,microsoft,end
 email-match,@live.com,fa-icon,microsoft,end
