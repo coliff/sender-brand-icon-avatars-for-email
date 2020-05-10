@@ -263,6 +263,8 @@ email-match,@flipboard.com,fa-icon,flipboard,end
 email-match,.flipboard.com,fa-icon,flipboard,end
 email-match,@fontawesome.com,fa-icon,font-awesome,end
 email-match,.fontawesome.com,fa-icon,font-awesome,end
+email-match,@fontawesome.io,fa-icon,font-awesome,end
+email-match,.fontawesome.io,fa-icon,font-awesome,end
 email-match,@foursquare.com,fa-icon,foursquare,end
 email-match,.foursquare.com,fa-icon,foursquare,end
 email-match,@freebsd.org,fa-icon,freebsd,end
@@ -539,6 +541,8 @@ email-match,@reddit.com,fa-icon,reddit,end
 email-match,.reddit.com,fa-icon,reddit,end
 email-match,@redhat.com,fa-icon,redhat,end
 email-match,.redhat.com,fa-icon,redhat,end
+email-match,@opensource.com,fa-icon,redhat,end
+email-match,.opensource.com,fa-icon,redhat,end
 email-match,@renren.com,fa-icon,renren,end
 email-match,.renren.com,fa-icon,renren,end
 email-match,@rev.io,fa-icon,rev,end
@@ -552,6 +556,8 @@ email-match,@salesforce.com,fa-icon,salesforce,end
 email-match,.salesforce.com,fa-icon,salesforce,end
 email-match,@salesforce.org,fa-icon,salesforce,end
 email-match,.salesforce.org,fa-icon,salesforce,end
+email-match,@work.com,fa-icon,salesforce,end
+email-match,.work.com,fa-icon,salesforce,end
 email-match,@sass-lang.com,fa-icon,sass,end
 email-match,.sass-lang.com,fa-icon,sass,end
 email-match,@schlix.com,fa-icon,schlix,end
