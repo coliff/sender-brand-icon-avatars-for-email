@@ -249,6 +249,8 @@ email-match,@facebook.com,fa-icon,facebook,end
 email-match,.facebook.com,fa-icon,facebook,end
 email-match,@facebookmail.com,fa-icon,facebook,end
 email-match,.facebookmail.com,fa-icon,facebook,end
+email-match,@fb.com,fa-icon,facebook,end
+email-match,.fb.com,fa-icon,facebook,end
 email-match,@fedex.com,fa-icon,fedex,end
 email-match,.fedex.com,fa-icon,fedex,end
 email-match,.@getfedora.org,fa-icon,fedora,end
@@ -265,6 +267,8 @@ email-match,@fontawesome.com,fa-icon,font-awesome,end
 email-match,.fontawesome.com,fa-icon,font-awesome,end
 email-match,@fontawesome.io,fa-icon,font-awesome,end
 email-match,.fontawesome.io,fa-icon,font-awesome,end
+email-match,@forumbee.com,fa-icon,forumbee,end
+email-match,.forumbee.com,fa-icon,forumbee,end
 email-match,@foursquare.com,fa-icon,foursquare,end
 email-match,.foursquare.com,fa-icon,foursquare,end
 email-match,@freebsd.org,fa-icon,freebsd,end
