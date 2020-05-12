@@ -169,6 +169,8 @@ email-match,@dailymotion.com,fa-icon,dailymotion,end
 email-match,.dailymotion.com,fa-icon,dailymotion,end
 email-match,@dashcube.com,fa-icon,dashcube,end
 email-match,.dashcube.com,fa-icon,dashcube,end
+email-match,@deskpro.com,fa-icon,deskpro,end
+email-match,.deskpro.com,fa-icon,deskpro,end
 email-match,@dev.to,fa-icon,dev,end
 email-match,.dev.to,fa-icon,dev,end
 email-match,@deviantart.com,fa-icon,deviantart,end
@@ -236,6 +238,8 @@ email-match,@emberjs.com,fa-icon,ember,end
 email-match,.emberjs.com,fa-icon,ember,end
 email-match,@enviragallery.com,fa-icon,envira,end
 email-match,.enviragallery.com,fa-icon,envira,end
+email-match,@erlang.org,fa-icon,erlang,end
+email-match,.erlang.org,fa-icon,erlang,end
 email-match,@ethereum.org,fa-icon,ethereum,end
 email-match,.ethereum.org,fa-icon,ethereum,end
 email-match,@etsy.com,fa-icon,etsy,end
