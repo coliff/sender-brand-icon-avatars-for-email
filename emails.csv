@@ -271,13 +271,15 @@ email-match,@forumbee.com,fa-icon,forumbee,end
 email-match,.forumbee.com,fa-icon,forumbee,end
 email-match,@foursquare.com,fa-icon,foursquare,end
 email-match,.foursquare.com,fa-icon,foursquare,end
-email-match,@freebsd.org,fa-icon,freebsd,end
-email-match,.freebsd.org,fa-icon,freebsd,end
 email-match,@freecodecamp.org,fa-icon,free-code-camp,end
 email-match,.freecodecamp.org,fa-icon,free-code-camp,end
+email-match,@freebsd.org,fa-icon,freebsd,end
+email-match,.freebsd.org,fa-icon,freebsd,end
 
 email-match,@getpocket.com,fa-icon,get-pocket,end
 email-match,.getpocket.com,fa-icon,get-pocket,end
+email-match,@git-scm.com,fa-icon,git-alt,end
+email-match,.git-scm.com,fa-icon,git-alt,end
 email-match,@atom.io,fa-icon,github,end
 email-match,.atom.io,fa-icon,github,end
 email-match,@github.com,fa-icon,github,end
