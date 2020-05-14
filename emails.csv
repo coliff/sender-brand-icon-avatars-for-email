@@ -78,6 +78,8 @@ email-match,@asymmetrik.com,fa-icon,asymmetrik,end
 email-match,.asymmetrik.com,fa-icon,asymmetrik,end
 email-match,@atlassian.com,fa-icon,atlassian,end
 email-match,.atlassian.com,fa-icon,atlassian,end
+email-match,@statuspage.io,fa-icon,atlassian,end
+email-match,.statuspage.io,fa-icon,atlassian,end
 email-match,@audible.com,fa-icon,audible,end
 email-match,.audible.com,fa-icon,audible,end
 email-match,aws-marketing-email-replies@amazon.com,fa-icon,aws,end
@@ -733,6 +735,8 @@ email-match,@wikimedia.org,fa-icon,wikipedia-w,end
 email-match,.wikimedia.org,fa-icon,wikipedia-w,end
 email-match,@wikipedia.org,fa-icon,wikipedia-w,end
 email-match,.wikipedia.org,fa-icon,wikipedia-w,end
+email-match,@windows.com,fa-icon,windows,end
+email-match,.windows.com,fa-icon,windows,end
 email-match,@windowslive.com,fa-icon,windows,end
 email-match,.windowslive.com,fa-icon,windows,end
 email-match,@windowsmobile.com,fa-icon,windows,end
