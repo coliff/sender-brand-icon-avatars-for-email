@@ -72,12 +72,12 @@ email-match,.apper.com,fa-icon,apper,end
 email-match,@apple.com,fa-icon,apple,end
 email-match,.apple.com,fa-icon,apple,end
 email-match,@inside.icloud.com,fa-icon,apple,end
+email-match,@artstation.com,fa-icon,artstation,end
+email-match,.artstation.com,fa-icon,artstation,end
 email-match,@asymmetrik.com,fa-icon,asymmetrik,end
 email-match,.asymmetrik.com,fa-icon,asymmetrik,end
 email-match,@atlassian.com,fa-icon,atlassian,end
 email-match,.atlassian.com,fa-icon,atlassian,end
-email-match,@artstation.com,fa-icon,artstation,end
-email-match,.artstation.com,fa-icon,artstation,end
 email-match,@audible.com,fa-icon,audible,end
 email-match,.audible.com,fa-icon,audible,end
 email-match,aws-marketing-email-replies@amazon.com,fa-icon,aws,end
@@ -108,6 +108,8 @@ email-match,@bluetooth.com,fa-icon,bluetooth-b,end
 email-match,.bluetooth.com,fa-icon,bluetooth-b,end
 email-match,@getbootstrap.com,fa-icon,bootstrap,end
 email-match,.getbootstrap.com,fa-icon,bootstrap,end
+email-match,@buffer.com,fa-icon,buffer,end
+email-match,.buffer.com,fa-icon,buffer,end
 email-match,@bueromoebel-experte.de,fa-icon,buromobelexperte,end
 email-match,.bueromoebel-experte.de,fa-icon,buromobelexperte,end
 email-match,@buysellads.com,fa-icon,buysellads,end
