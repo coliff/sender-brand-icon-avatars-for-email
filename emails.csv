@@ -98,6 +98,8 @@ email-match,@bitbucket.com,fa-icon,bitbucket,end
 email-match,.bitbucket.com,fa-icon,bitbucket,end
 email-match,@bitbucket.org,fa-icon,bitbucket,end
 email-match,.bitbucket.org,fa-icon,bitbucket,end
+email-match,@bitcoin.co.uk,fa-icon,bitcoin,end
+email-match,.bitcoin.co.uk,fa-icon,bitcoin,end
 email-match,@bitcoin.org,fa-icon,bitcoin,end
 email-match,.bitcoin.org,fa-icon,bitcoin,end
 email-match,@bity.com,fa-icon,bity,end
@@ -110,6 +112,8 @@ email-match,@bluetooth.com,fa-icon,bluetooth-b,end
 email-match,.bluetooth.com,fa-icon,bluetooth-b,end
 email-match,@getbootstrap.com,fa-icon,bootstrap,end
 email-match,.getbootstrap.com,fa-icon,bootstrap,end
+email-match,@bitcoin.com,fa-icon,bitcoin,end
+email-match,.bitcoin.com,fa-icon,bitcoin,end
 email-match,@buffer.com,fa-icon,buffer,end
 email-match,.buffer.com,fa-icon,buffer,end
 email-match,@bueromoebel-experte.de,fa-icon,buromobelexperte,end
@@ -127,6 +131,8 @@ email-match,@mastercard.de,fa-icon,cc-mastercard,end
 email-match,.mastercard.de,fa-icon,cc-mastercard,end
 email-match,@mastercard.fr,fa-icon,cc-mastercard,end
 email-match,.mastercard.fr,fa-icon,cc-mastercard,end
+email-match,@mastercard.it,fa-icon,cc-mastercard,end
+email-match,.mastercard.it,fa-icon,cc-mastercard,end
 email-match,@visa.com,fa-icon,cc-visa,end
 email-match,.visa.com,fa-icon,cc-visa,end
 email-match,@visa.co.jp,fa-icon,cc-visa,end
@@ -344,6 +350,8 @@ email-match,@houzz.com,fa-icon,houzz,end
 email-match,.houzz.com,fa-icon,houzz,end
 email-match,@hubspot.com,fa-icon,hubspot,end
 email-match,.hubspot.com,fa-icon,hubspot,end
+email-match,@hubspotfree.net,fa-icon,hubspot,end
+email-match,.hubspotfree.net,fa-icon,hubspot,end
 
 email-match,@itch.io,fa-icon,itch-io,end
 email-match,.itch.io,fa-icon,itch-io,end
@@ -718,6 +726,8 @@ email-match,@viber.co.jp,fa-icon,viber,end
 email-match,.viber.co.jp,fa-icon,viber,end
 email-match,@vimeo.com,fa-icon,vimeo-v,end
 email-match,.vimeo.com,fa-icon,vimeo-v,end
+email-match,@vnv.ch,fa-icon,vnv,end
+email-match,.vnv.ch,fa-icon,vnv,end
 email-match,@vuejs.org,fa-icon,vuejs,end
 email-match,.vuejs.org,fa-icon,vuejs,end
 
@@ -727,6 +737,8 @@ email-match,@weebly.com,fa-icon,weebly,end
 email-match,.weebly.com,fa-icon,weebly,end
 email-match,@weibo.com,fa-icon,weibo,end
 email-match,.weibo.com,fa-icon,weibo,end
+email-match,@wx.qq.com,fa-icon,weixin,end
+email-match,.wx.qq.com,fa-icon,weixin,end
 email-match,@whatsapp.com,fa-icon,whatsapp,end
 email-match,.whatsapp.com,fa-icon,whatsapp,end
 email-match,@whmcs.com,fa-icon,whmcs,end
