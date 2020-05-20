@@ -14,6 +14,7 @@ email-match,@affiliatetheme.io,fa-icon,affiliatetheme,end
 email-match,.affiliatetheme.io,fa-icon,affiliatetheme,end
 email-match,@airbnb.com,fa-icon,airbnb,end
 email-match,.airbnb.com,fa-icon,airbnb,end
+email-match,algolia@delightedapp.com,fa-icon,algolia,end
 email-match,communications@algolia.com,fa-icon,algolia,end
 email-match,community@algolia.com,fa-icon,algolia,end
 email-match,documentationsearch@algolia.com,fa-icon,algolia,end
@@ -320,6 +321,8 @@ email-match,photos@google.com,fa-icon,google,end
 email-match,sharing@google.com,fa-icon,google,end
 email-match,support@google.com,fa-icon,google,end
 email-match,.google.com,fa-icon,google,end
+email-match,@googlegroups.com,fa-icon,google,end
+email-match,.googlegroups.com,fa-icon,google,end
 email-match,@googleforwork.com,fa-icon,google,end
 email-match,drive-shares-noreply@google.com,fa-icon,google-drive,end
 email-match,-googleplay@google.com,fa-icon,google-play,end
