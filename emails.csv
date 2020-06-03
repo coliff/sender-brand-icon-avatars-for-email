@@ -427,6 +427,12 @@ email-match,@mailchimp.com,fa-icon,mailchimp,end
 email-match,.mailchimp.com,fa-icon,mailchimp,end
 email-match,@mcsignup.com,fa-icon,mailchimp,end
 email-match,.mcsignup.com,fa-icon,mailchimp,end
+email-match,@commonmark.org,fa-icon,markdown,end
+email-match,.commonmark.org,fa-icon,markdown,end
+email-match,@mastodon.social,fa-icon,mastodon,end
+email-match,.mastodon.social,fa-icon,mastodon,end
+email-match,@maxcdn.com,fa-icon,maxcdn,end
+email-match,.maxcdn.com,fa-icon,maxcdn,end
 email-match,@mdbootstrap.com,fa-icon,mdb,end
 email-match,.mdbootstrap.com,fa-icon,mdb,end
 email-match,@medapps.com.au,fa-icon,medapps,end
