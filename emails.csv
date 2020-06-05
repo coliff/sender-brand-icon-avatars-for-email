@@ -24,6 +24,7 @@ email-match,support@algolia.com,fa-icon,algolia,end
 email-match,.algolia.com,fa-icon,algolia,end
 email-match,@alipay.com,fa-icon,alipay,end
 email-match,.alipay.com,fa-icon,alipay,end
+email-match,.amazon,fa-icon,amazon,end
 email-match,@amazon.ae,fa-icon,amazon,end
 email-match,.amazon.ae,fa-icon,amazon,end
 email-match,@amazon.com,fa-icon,amazon,end
@@ -124,6 +125,8 @@ email-match,.bueromoebel-experte.de,fa-icon,buromobelexperte,end
 email-match,@buysellads.com,fa-icon,buysellads,end
 email-match,.buysellads.com,fa-icon,buysellads,end
 
+email-match,@americanexpress,fa-icon,cc-amex,end
+email-match,.americanexpress,fa-icon,cc-amex,end
 email-match,@americanexpress.com,fa-icon,cc-amex,end
 email-match,.americanexpress.com,fa-icon,cc-amex,end
 email-match,@mastercard.com,fa-icon,cc-mastercard,end
@@ -311,7 +314,8 @@ email-match,@gofore.com,fa-icon,gofore,end
 email-match,.gofore.com,fa-icon,gofore,end
 email-match,@goodreads.com,fa-icon,goodreads-g,end
 email-match,.goodreads.com,fa-icon,goodreads-g,end
-email-match,-analytics@google.com,fa-icon,google,end
+email-match,@google,fa-icon,google,end
+email-match,.google,fa-icon,google,end
 email-match,-guides@google.com,fa-icon,google,end
 email-match,-issues@google.com,fa-icon,google,end
 email-match,-noreply@google.com,fa-icon,google,end
@@ -647,6 +651,12 @@ email-match,@speakerdeck.com,fa-icon,speaker-deck,end
 email-match,.speakerdeck.com,fa-icon,speaker-deck,end
 email-match,@spotify.com,fa-icon,spotify,end
 email-match,.spotify.com,fa-icon,spotify,end
+email-match,@spotifyjobs.com,fa-icon,spotify,end
+email-match,.spotifyjobs.com,fa-icon,spotify,end
+email-match,@spotifyforbrands.com,fa-icon,spotify,end
+email-match,.spotifyforbrands.com,fa-icon,spotify,end
+email-match,@spotifyforvendors.com,fa-icon,spotify,end
+email-match,.spotifyforvendors.com,fa-icon,spotify,end
 email-match,@squarespace.com,fa-icon,squarespace,end
 email-match,.squarespace.com,fa-icon,squarespace,end
 email-match,@stackexchange.com,fa-icon,stack-exchange,end
