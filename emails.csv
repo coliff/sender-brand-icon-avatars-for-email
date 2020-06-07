@@ -552,6 +552,8 @@ email-match,@pinterest.com,fa-icon,pinterest,end
 email-match,.pinterest.com,fa-icon,pinterest,end
 email-match,@playstation.com,fa-icon,playstation,end
 email-match,.playstation.com,fa-icon,playstation,end
+email-match,@playstationmail.com,fa-icon,playstation,end
+email-match,.playstationmail.com,fa-icon,playstation,end
 email-match,@playstationmail.net,fa-icon,playstation,end
 email-match,.playstationmail.net,fa-icon,playstation,end
 email-match,@sonyentertainmentnetwork.com,fa-icon,playstation,end
