@@ -336,6 +336,9 @@ email-match,.google.com,fa-icon,google,end
 email-match,@googlegroups.com,fa-icon,google,end
 email-match,.googlegroups.com,fa-icon,google,end
 email-match,@googleforwork.com,fa-icon,google,end
+email-match,.googleforwork.com,fa-icon,google,end
+email-match,@withgoogle.com,fa-icon,google,end
+email-match,.withgoogle.com,fa-icon,google,end
 email-match,drive-shares-noreply@google.com,fa-icon,google-drive,end
 email-match,-googleplay@google.com,fa-icon,google-play,end
 email-match,googleplay-noreply@google.com,fa-icon,google-play,end
@@ -376,8 +379,12 @@ email-match,@invisionapp.com,fa-icon,invision,end
 email-match,.invisionapp.com,fa-icon,invision,end
 email-match,@instagram.com,fa-icon,instagram,end
 email-match,.instagram.com,fa-icon,instagram,end
+email-match,@instagram-brand.com,fa-icon,instagram,end
+email-match,.instagram-brand.com,fa-icon,instagram,end
 email-match,@intercom.com,fa-icon,intercom,end
 email-match,.intercom.com,fa-icon,intercom,end
+email-match,@intercom.io,fa-icon,intercom,end
+email-match,.intercom.io,fa-icon,intercom,end
 email-match,itunesaffiliates@apple.com,fa-icon,itunes,end
 email-match,@itunes.com,fa-icon,itunes,end
 email-match,.itunes.com,fa-icon,itunes,end
