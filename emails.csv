@@ -185,6 +185,8 @@ email-match,@dailymotion.com,fa-icon,dailymotion,end
 email-match,.dailymotion.com,fa-icon,dailymotion,end
 email-match,@dashcube.com,fa-icon,dashcube,end
 email-match,.dashcube.com,fa-icon,dashcube,end
+email-match,@deezer.com,fa-icon,deezer,end
+email-match,.deezer.com,fa-icon,deezer,end
 email-match,@deskpro.com,fa-icon,deskpro,end
 email-match,.deskpro.com,fa-icon,deskpro,end
 email-match,@dev.to,fa-icon,dev,end
@@ -605,6 +607,8 @@ email-match,@rocket.chat,fa-icon,rocketchat,end
 email-match,.rocket.chat,fa-icon,rocketchat,end
 email-match,@rockrms.com,fa-icon,rockrms,end
 email-match,.rockrms.com,fa-icon,rockrms,end
+email-match,@rust-lang.org,fa-icon,rust,end
+email-match,.rust-lang.org,fa-icon,rust,end
 
 email-match,@salesforce.com,fa-icon,salesforce,end
 email-match,.salesforce.com,fa-icon,salesforce,end
@@ -712,6 +716,8 @@ email-match,@themeisle.com,fa-icon,themeisle,end
 email-match,.themeisle.com,fa-icon,themeisle,end
 email-match,@thinkpeaks.com,fa-icon,think-peaks,end
 email-match,.thinkpeaks.com,fa-icon,think-peaks,end
+email-match,@tiktok.com,fa-icon,tiktok,end
+email-match,.tiktok.com,fa-icon,tiktok,end
 email-match,@trello.com,fa-icon,trello,end
 email-match,.trello.com,fa-icon,trello,end
 email-match,@tripadvisor.com,fa-icon,tripadvisor,end
@@ -739,6 +745,8 @@ email-match,@uniregistry.com,fa-icon,uniregistry,end
 email-match,.uniregistry.com,fa-icon,uniregistry,end
 email-match,@unity.com,fa-icon,unity,end
 email-match,.unity.com,fa-icon,unity,end
+email-match,@unsplash.com,fa-icon,unsplash,end
+email-match,.unsplash.com,fa-icon,unsplash,end
 email-match,@untappd.com,fa-icon,untappd,end
 email-match,.untappd.com,fa-icon,untappd,end
 email-match,@ups.com,fa-icon,ups,end
