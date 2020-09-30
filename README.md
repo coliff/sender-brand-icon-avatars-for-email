@@ -3,7 +3,7 @@
 # Sender Brand Icon Avatars for Email Browser Extensions
 
 - Super-fast with no JavaScript or external resources
-- All images are hi-res SVG from [Font Awesome](https://fontawesome.com/icons?s=brands) displayed as inline SVG masks
+- All images are hi-res SVG from [Font Awesome](https://fontawesome.com/icons?s=brands) and [Simple Icons](https://simpleicons.org/) displayed as inline SVG masks
 - Free and Open Source database (this repo)
 
 This repo is for the CSV file used to generate the CSS files for the email avatar browser extensions.
@@ -23,4 +23,4 @@ Check the [CONTRIBUTING](.github/CONTRIBUTING.md) guide.
 
 ## Thanks
 
-- Brand icons from [Font Awesome](https://fontawesome.com/icons?s=brands)
+- Brand icons from [Font Awesome](https://fontawesome.com/icons?s=brands) and [Simple Icons](https://simpleicons.org/)

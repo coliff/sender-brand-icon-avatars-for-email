@@ -3,11 +3,6 @@ email-match,.500px.com,fa-icon,500px,end
 
 email-match,@accusoft.com,fa-icon,accusoft,end
 email-match,.accusoft.com,fa-icon,accusoft,end
-email-match,@adobesystems.com,fa-icon,adobe,end
-email-match,.adobesystems.com,fa-icon,adobe,end
-email-match,@adobe.com,fa-icon,adobe,end
-email-match,.adobe.com,fa-icon,adobe,end
-email-match,@email-adoberevel.com,fa-icon,adobe,end
 email-match,@adversal.com,fa-icon,adversal,end
 email-match,.adversal.com,fa-icon,adversal,end
 email-match,@affiliatetheme.io,fa-icon,affiliatetheme,end
@@ -156,6 +151,8 @@ email-match,chromewebstore-dev-support@google.com,fa-icon,chrome,end
 email-match,chromewebstore-noreply@google.com,fa-icon,chrome,end
 email-match,@chromium.org,fa-icon,chrome,end
 email-match,.chromium.org,fa-icon,chrome,end
+email-match,@cloudflare.com,fa-icon,cloudflare,end
+email-match,.cloudflare.com,fa-icon,cloudflare,end
 email-match,@cloudscale.ch,fa-icon,cloudscale,end
 email-match,.cloudscale.ch,fa-icon,cloudscale,end
 email-match,@cloudsmith.io,fa-icon,cloudsmith,end
@@ -355,6 +352,8 @@ email-match,@gripfire.com,fa-icon,gripfire,end
 email-match,.gripfire.com,fa-icon,gripfire,end
 email-match,@gruntjs.com,fa-icon,grunt,end
 email-match,.gruntjs.com,fa-icon,grunt,end
+email-match,@guilded.gg,fa-icon,guilded,end
+email-match,.guilded.gg,fa-icon,guilded,end
 email-match,@gulpjs.com,fa-icon,gulp,end
 email-match,.gulpjs.com,fa-icon,gulp,end
 
@@ -377,12 +376,16 @@ email-match,@itch.io,fa-icon,itch-io,end
 email-match,.itch.io,fa-icon,itch-io,end
 email-match,@imdb.com,fa-icon,imdb,end
 email-match,.imdb.com,fa-icon,imdb,end
+email-match,@innosoft.com,fa-icon,innosoft,end
+email-match,.innosoft.com,fa-icon,innosoft,end
 email-match,@invisionapp.com,fa-icon,invision,end
 email-match,.invisionapp.com,fa-icon,invision,end
 email-match,@instagram.com,fa-icon,instagram,end
 email-match,.instagram.com,fa-icon,instagram,end
 email-match,@instagram-brand.com,fa-icon,instagram,end
 email-match,.instagram-brand.com,fa-icon,instagram,end
+email-match,@instalod.com,fa-icon,instalod,end
+email-match,.instalod.com,fa-icon,instalod,end
 email-match,@intercom.com,fa-icon,intercom,end
 email-match,.intercom.com,fa-icon,intercom,end
 email-match,@intercom.io,fa-icon,intercom,end
@@ -516,6 +519,8 @@ email-match,.ns8.com,fa-icon,ns8,end
 email-match,@nutritionix.com,fa-icon,nutritionix,end
 email-match,.nutritionix.com,fa-icon,nutritionix,end
 
+email-match,@octopus.com,fa-icon,octopus-deploy,end
+email-match,.octopus.com,fa-icon,octopus-deploy,end
 email-match,@ok.ru,fa-icon,odnoklassniki,end
 email-match,.ok.ru,fa-icon,odnoklassniki,end
 email-match,@opencart.com,fa-icon,opencart,end
@@ -553,6 +558,8 @@ email-match,@paypal-customerfeedback.com,fa-icon,paypal,end
 email-match,.paypal-customerfeedback.com,fa-icon,paypal,end
 email-match,@penny-arcade.com,fa-icon,penny-arcade,end
 email-match,.penny-arcade.com,fa-icon,penny-arcade,end
+email-match,@perbyte.com,fa-icon,perbyte,end
+email-match,.perbyte.com,fa-icon,perbyte,end
 email-match,@php.net,fa-icon,php,end
 email-match,.php.net,fa-icon,php,end
 email-match,@piedpiper.com,fa-icon,pied-piper-hat,end
@@ -741,6 +748,8 @@ email-match,@getuikit.com,fa-icon,uikit,end
 email-match,.getuikit.com,fa-icon,uikit,end
 email-match,@umbraco.com,fa-icon,umbraco,end
 email-match,.umbraco.com,fa-icon,umbraco,end
+email-match,@uncharted.software,fa-icon,uncharted,end
+email-match,.uncharted.software,fa-icon,uncharted,end
 email-match,@uniregistry.com,fa-icon,uniregistry,end
 email-match,.uniregistry.com,fa-icon,uniregistry,end
 email-match,@unity.com,fa-icon,unity,end
@@ -775,6 +784,8 @@ email-match,.vnv.ch,fa-icon,vnv,end
 email-match,@vuejs.org,fa-icon,vuejs,end
 email-match,.vuejs.org,fa-icon,vuejs,end
 
+email-match,@watchmanmonitoring.com,fa-icon,watchman-monitoring,end
+email-match,.watchmanmonitoring.com,fa-icon,watchman-monitoring,end
 email-match,@waze.com,fa-icon,waze,end
 email-match,.waze.com,fa-icon,waze,end
 email-match,@weebly.com,fa-icon,weebly,end
