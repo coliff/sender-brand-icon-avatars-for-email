@@ -14,7 +14,8 @@ email-match,.airbnbmag.com,fa-icon,airbnb,end
 email-match,algolia@delightedapp.com,fa-icon,algolia,end
 email-match,communications@algolia.com,fa-icon,algolia,end
 email-match,community@algolia.com,fa-icon,algolia,end
-email-match,documentationsearch@algolia.com,fa-icon,algolia,end
+email-match,partners@algolia.com,fa-icon,algolia,end
+email-match,search@algolia.com,fa-icon,algolia,end
 email-match,support@algolia.com,fa-icon,algolia,end
 email-match,.algolia.com,fa-icon,algolia,end
 email-match,@alipay.com,fa-icon,alipay,end
@@ -373,6 +374,8 @@ email-match,@hubspot.com,fa-icon,hubspot,end
 email-match,.hubspot.com,fa-icon,hubspot,end
 email-match,@hubspotfree.net,fa-icon,hubspot,end
 email-match,.hubspotfree.net,fa-icon,hubspot,end
+email-match,@hubspotstarter.net,fa-icon,hubspot,end
+email-match,.hubspotstarter.net,fa-icon,hubspot,end
 
 email-match,@itch.io,fa-icon,itch-io,end
 email-match,.itch.io,fa-icon,itch-io,end
