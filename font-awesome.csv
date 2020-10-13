@@ -23,6 +23,8 @@ email-match,.alipay.com,fa-icon,alipay,end
 email-match,.amazon,fa-icon,amazon,end
 email-match,@amazon.ae,fa-icon,amazon,end
 email-match,.amazon.ae,fa-icon,amazon,end
+email-match,@amazon.ca,fa-icon,amazon,end
+email-match,.amazon.ca,fa-icon,amazon,end
 email-match,@amazon.com,fa-icon,amazon,end
 email-match,.amazon.com,fa-icon,amazon,end
 email-match,@amazon.com.au,fa-icon,amazon,end
@@ -51,6 +53,8 @@ email-match,@amazon.it,fa-icon,amazon,end
 email-match,.amazon.it,fa-icon,amazon,end
 email-match,@amazon.nl,fa-icon,amazon,end
 email-match,.amazon.nl,fa-icon,amazon,end
+email-match,@amazon.sa,fa-icon,amazon,end
+email-match,.amazon.sa,fa-icon,amazon,end
 email-match,@amazon.sg,fa-icon,amazon,end
 email-match,.amazon.sg,fa-icon,amazon,end
 email-match,@amilia.com,fa-icon,amilia,end
@@ -215,6 +219,8 @@ email-match,@dropbox.com,fa-icon,dropbox,end
 email-match,.dropbox.com,fa-icon,dropbox,end
 email-match,@dropboxmail.com,fa-icon,dropbox,end
 email-match,.dropboxmail.com,fa-icon,dropbox,end
+email-match,@getdropbox.com,fa-icon,dropbox,end
+email-match,.getdropbox.com,fa-icon,dropbox,end
 email-match,@drupal.com,fa-icon,drupal,end
 email-match,.drupal.com,fa-icon,drupal,end
 email-match,@drupal.org,fa-icon,drupal,end
@@ -701,6 +707,8 @@ email-match,@stackpath.com,fa-icon,stackpath,end
 email-match,.stackpath.com,fa-icon,stackpath,end
 email-match,@staylinked.com,fa-icon,staylinked,end
 email-match,.staylinked.com,fa-icon,staylinked,end
+email-match,@steamgames.com,fa-icon,steam,end
+email-match,.steamgames.com,fa-icon,steam,end
 email-match,@steampowered.com,fa-icon,steam,end
 email-match,.steampowered.com,fa-icon,steam,end
 email-match,@strava.com,fa-icon,strava,end
