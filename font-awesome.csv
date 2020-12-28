@@ -853,6 +853,7 @@ email-match,.xing.com,fa-icon,xing,end
 
 email-match,@ycombinator.com,fa-icon,y-combinator,end
 email-match,.ycombinator.com,fa-icon,y-combinator,end
+email-match,@dmarc.yahoo.com,fa-icon,yahoo,end
 email-match,@yahoo.net,fa-icon,yahoo,end
 email-match,.yahoo.net,fa-icon,yahoo,end
 email-match,@yahoo-inc.com,fa-icon,yahoo,end
