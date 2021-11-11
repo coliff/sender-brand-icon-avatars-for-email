@@ -322,7 +322,8 @@ email-match,@git-scm.com,fa-icon,git-alt,end
 email-match,.git-scm.com,fa-icon,git-alt,end
 email-match,@atom.io,fa-icon,github,end
 email-match,.atom.io,fa-icon,github,end
-email-match,@github.com,fa-icon,github,end
+email-match,noreply@github.com,fa-icon,github,end
+email-match,notifications@github.com,fa-icon,github,end
 email-match,.github.com,fa-icon,github,end
 email-match,@gitkraken.com,fa-icon,gitkraken,end
 email-match,.gitkraken.com,fa-icon,gitkraken,end
