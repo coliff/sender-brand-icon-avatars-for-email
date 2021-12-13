@@ -337,6 +337,7 @@ email-match,@goodreads.com,fa-icon,goodreads-g,end
 email-match,.goodreads.com,fa-icon,goodreads-g,end
 email-match,@google,fa-icon,google,end
 email-match,.google,fa-icon,google,end
+email-match,-eventsatgoogle@google.com,fa-icon,google,end
 email-match,-guides@google.com,fa-icon,google,end
 email-match,-issues@google.com,fa-icon,google,end
 email-match,-noreply@google.com,fa-icon,google,end
@@ -344,6 +345,7 @@ email-match,-system@google.com,fa-icon,google,end
 email-match,-timeline@google.com,fa-icon,google,end
 email-match,-travel@google.com,fa-icon,google,end
 email-match,+feedproxy@google.com,fa-icon,google,end
+email-match,noreply-utos@google.com,fa-icon,google,end
 email-match,photos@google.com,fa-icon,google,end
 email-match,sharing@google.com,fa-icon,google,end
 email-match,support@google.com,fa-icon,google,end
