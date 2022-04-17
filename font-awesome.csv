@@ -114,6 +114,8 @@ email-match,@bitcoin.co.uk,fa-icon,bitcoin,end
 email-match,.bitcoin.co.uk,fa-icon,bitcoin,end
 email-match,@bitcoin.org,fa-icon,bitcoin,end
 email-match,.bitcoin.org,fa-icon,bitcoin,end
+email-match,@bitcoin.com,fa-icon,bitcoin,end
+email-match,.bitcoin.com,fa-icon,bitcoin,end
 email-match,@bity.com,fa-icon,bity,end
 email-match,.bity.com,fa-icon,bity,end
 email-match,@blackberry.com,fa-icon,blackberry,end
@@ -124,8 +126,8 @@ email-match,@bluetooth.com,fa-icon,bluetooth-b,end
 email-match,.bluetooth.com,fa-icon,bluetooth-b,end
 email-match,@getbootstrap.com,fa-icon,bootstrap,end
 email-match,.getbootstrap.com,fa-icon,bootstrap,end
-email-match,@bitcoin.com,fa-icon,bitcoin,end
-email-match,.bitcoin.com,fa-icon,bitcoin,end
+email-match,@bots-inc.com,fa-icon,bots,end
+email-match,.bots-inc.com,fa-icon,bots,end
 email-match,@buffer.com,fa-icon,buffer,end
 email-match,.buffer.com,fa-icon,buffer,end
 email-match,@bueromoebel-experte.de,fa-icon,buromobelexperte,end
@@ -323,8 +325,11 @@ email-match,.git-scm.com,fa-icon,git-alt,end
 email-match,@atom.io,fa-icon,github,end
 email-match,.atom.io,fa-icon,github,end
 email-match,noreply@github.com,fa-icon,github,end
+email-match,no-reply@github.com,fa-icon,github,end
 email-match,notifications@github.com,fa-icon,github,end
+email-match,support@github.com,fa-icon,github,end
 email-match,.github.com,fa-icon,github,end
+email-match,@githubsupport.com,fa-icon,github,end
 email-match,@gitkraken.com,fa-icon,gitkraken,end
 email-match,.gitkraken.com,fa-icon,gitkraken,end
 email-match,@gitlab.com,fa-icon,gitlab,end
@@ -349,6 +354,7 @@ email-match,noreply-utos@google.com,fa-icon,google,end
 email-match,photos@google.com,fa-icon,google,end
 email-match,sharing@google.com,fa-icon,google,end
 email-match,support@google.com,fa-icon,google,end
+email-match,userstudies@google.com,fa-icon,google,end
 email-match,.google.com,fa-icon,google,end
 email-match,@googlegroups.com,fa-icon,google,end
 email-match,.googlegroups.com,fa-icon,google,end
