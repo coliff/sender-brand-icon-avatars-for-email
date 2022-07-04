@@ -338,6 +338,8 @@ email-match,@gitter.im,fa-icon,gitter,end
 email-match,.gitter.im,fa-icon,gitter,end
 email-match,@gofore.com,fa-icon,gofore,end
 email-match,.gofore.com,fa-icon,gofore,end
+email-match,@go.dev,fa-icon,golang,end
+email-match,.go.dev,fa-icon,golang,end
 email-match,@goodreads.com,fa-icon,goodreads-g,end
 email-match,.goodreads.com,fa-icon,goodreads-g,end
 email-match,@google,fa-icon,google,end
@@ -345,11 +347,11 @@ email-match,.google,fa-icon,google,end
 email-match,-eventsatgoogle@google.com,fa-icon,google,end
 email-match,-guides@google.com,fa-icon,google,end
 email-match,-issues@google.com,fa-icon,google,end
-email-match,-noreply@google.com,fa-icon,google,end
 email-match,-system@google.com,fa-icon,google,end
 email-match,-timeline@google.com,fa-icon,google,end
 email-match,-travel@google.com,fa-icon,google,end
 email-match,+feedproxy@google.com,fa-icon,google,end
+email-match,noreply@google.com,fa-icon,google,end
 email-match,noreply-utos@google.com,fa-icon,google,end
 email-match,photos@google.com,fa-icon,google,end
 email-match,sharing@google.com,fa-icon,google,end
@@ -653,6 +655,8 @@ email-match,@sass-lang.com,fa-icon,sass,end
 email-match,.sass-lang.com,fa-icon,sass,end
 email-match,@schlix.com,fa-icon,schlix,end
 email-match,.schlix.com,fa-icon,schlix,end
+email-match,@screencast-o-matic.com,fa-icon,screenpal,end
+email-match,.screencast-o-matic.com,fa-icon,screenpal,end
 email-match,@scribd.com,fa-icon,scribd,end
 email-match,.scribd.com,fa-icon,scribd,end
 email-match,@sellcast.com,fa-icon,sellcast,end
@@ -669,6 +673,8 @@ email-match,@simplybuilt.com,fa-icon,simplybuilt,end
 email-match,.simplybuilt.com,fa-icon,simplybuilt,end
 email-match,@sistrix.com,fa-icon,sistrix,end
 email-match,.sistrix.com,fa-icon,sistrix,end
+email-match,@sitrox.com,fa-icon,sitrox,end
+email-match,.sitrox.com,fa-icon,sitrox,end
 email-match,@sketch.com,fa-icon,sketch,end
 email-match,.sketch.com,fa-icon,sketch,end
 email-match,@skyatlas.com,fa-icon,skyatlas,end
