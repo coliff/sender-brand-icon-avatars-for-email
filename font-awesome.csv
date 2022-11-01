@@ -97,6 +97,7 @@ email-match,.audible.com,fa-icon,audible,end
 email-match,aws-marketing-email-replies@amazon.com,fa-icon,aws,end
 email-match,aws@amazon.com,fa-icon,aws,end
 email-match,aws-marketplace-email@amazon.com,fa-icon,aws,end
+email-match,@update.signin.aws,fa-icon,aws,end
 
 email-match,@bandcamp.com,fa-icon,bandcamp,end
 email-match,.bandcamp.com,fa-icon,bandcamp,end
