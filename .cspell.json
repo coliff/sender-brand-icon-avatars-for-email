@@ -1,0 +1,10 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "words": [
+    "Oliff"
+  ],
+  "allowCompoundWords": true,
+  "useGitignore": true
+}

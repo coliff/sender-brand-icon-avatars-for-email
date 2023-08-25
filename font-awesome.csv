@@ -862,6 +862,8 @@ email-match,.wpforms.com,fa-icon,wpforms,end
 email-match,@wpressr.com,fa-icon,wpressr,end
 email-match,.wpressr.com,fa-icon,wpressr,end
 
+email-match,@x.com,fa-icon,x-twitter,end
+email-match,.@x.com,fa-icon,x-twitter,end
 email-match,@xbox.com,fa-icon,xbox,end
 email-match,.xbox.com,fa-icon,xbox,end
 email-match,@xboxone.com,fa-icon,xbox,end

@@ -11,6 +11,10 @@
     "type": "git",
     "url": "https://github.com/coliff/sender-brand-icon-avatars-for-email"
   },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/coliff"
+  },
   "license": "MIT",
   "author": {
     "name": "C.Oliff",
