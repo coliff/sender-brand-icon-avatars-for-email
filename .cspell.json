@@ -1,10 +1,11 @@
 {
   "version": "0.2",
-  "ignorePaths": [],
+  "allowCompoundWords": true,
   "dictionaryDefinitions": [],
+  "ignorePaths": [],
+  "language": "en,en-US",
   "words": [
     "Oliff"
   ],
-  "allowCompoundWords": true,
   "useGitignore": true
 }
