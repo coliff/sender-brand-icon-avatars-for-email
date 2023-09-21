@@ -167,6 +167,7 @@ email-match,chromewebstore-dev-support@google.com,fa-icon,chrome,end
 email-match,chromewebstore-noreply@google.com,fa-icon,chrome,end
 email-match,@chromium.org,fa-icon,chrome,end
 email-match,.chromium.org,fa-icon,chrome,end
+email-match,cws-noreply@google.com,fa-icon,chrome,end
 email-match,@cloudflare.com,fa-icon,cloudflare,end
 email-match,.cloudflare.com,fa-icon,cloudflare,end
 email-match,@cloudscale.ch,fa-icon,cloudscale,end
