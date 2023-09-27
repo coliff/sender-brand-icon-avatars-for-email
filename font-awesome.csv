@@ -355,6 +355,7 @@ email-match,-system@google.com,fa-icon,google,end
 email-match,-timeline@google.com,fa-icon,google,end
 email-match,-travel@google.com,fa-icon,google,end
 email-match,+feedproxy@google.com,fa-icon,google,end
+email-match,archive@google.com,fa-icon,google,end
 email-match,noreply@google.com,fa-icon,google,end
 email-match,noreply-utos@google.com,fa-icon,google,end
 email-match,photos@google.com,fa-icon,google,end
