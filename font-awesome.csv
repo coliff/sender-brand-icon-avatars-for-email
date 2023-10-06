@@ -571,6 +571,8 @@ email-match,.orcid.org,fa-icon,orcid,end
 email-match,@opensource.org,fa-icon,osi,end
 email-match,.opensource.org,fa-icon,osi,end
 
+email-match,@padlet.com,fa-icon,padlet,end
+email-match,.padlet.com,fa-icon,padlet,end
 email-match,@page4.com,fa-icon,page4,end
 email-match,.page4.com,fa-icon,page4,end
 email-match,@pagelines.com,fa-icon,pagelines,end
@@ -745,6 +747,8 @@ email-match,@studiovinari.com,fa-icon,studiovinari,end
 email-match,.studiovinari.com,fa-icon,studiovinari,end
 email-match,@stripe.com,fa-icon,stripe,end
 email-match,.stripe.com,fa-icon,stripe,end
+email-match,@stubber.com,fa-icon,stubber,end
+email-match,.stubber.com,fa-icon,stubber,end
 email-match,@opensuse.org,fa-icon,suse,end
 email-match,.opensuse.org,fa-icon,suse,end
 email-match,@swift.org,fa-icon,swift,end
