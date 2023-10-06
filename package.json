@@ -20,5 +20,12 @@
     "name": "C.Oliff",
     "url": "https://christianoliff.com"
   },
-  "main": "emails.csv"
+  "main": "font-awesome.csv",
+  "scripts": {
+    "prettier": "npx prettier --write \"**/*.{md,yml}\""
+  },
+  "files": [
+    "font-awesome.csv",
+    "simple-icons.csv"
+  ]
 }
