@@ -392,6 +392,8 @@ email-match,.gulpjs.com,fa-icon,gulp,end
 
 email-match,@hackerrank.com,fa-icon,hackerrank,end
 email-match,.hackerrank.com,fa-icon,hackerrank,end
+email-match,@hashnode.com,fa-icon,hashnode,end
+email-match,.hashnode.com,fa-icon,hashnode,end
 email-match,@hireahelper.com,fa-icon,hire-a-helper,end
 email-match,.hireahelper.com,fa-icon,hire-a-helper,end
 email-match,@hive.io,fa-icon,hive,end
@@ -712,6 +714,8 @@ email-match,@soundcloud.com,fa-icon,soundcloud,end
 email-match,.soundcloud.com,fa-icon,soundcloud,end
 email-match,@soundcloudmail.com,fa-icon,soundcloud,end
 email-match,.soundcloudmail.com,fa-icon,soundcloud,end
+email-match,@space-awesome.com,fa-icon,space-awesome,end
+email-match,.space-awesome.com,fa-icon,space-awesome,end
 email-match,@speakap.com,fa-icon,speakap,end
 email-match,.speakap.com,fa-icon,speakap,end
 email-match,@speakerdeck.com,fa-icon,speaker-deck,end
