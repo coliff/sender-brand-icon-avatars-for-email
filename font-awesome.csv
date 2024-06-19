@@ -372,6 +372,7 @@ email-match,.googleforwork.com,fa-icon,google,end
 email-match,@withgoogle.com,fa-icon,google,end
 email-match,.withgoogle.com,fa-icon,google,end
 email-match,drive-shares-noreply@google.com,fa-icon,google-drive,end
+email-match,play-developer-console@google.com,end
 email-match,-googleplay@google.com,fa-icon,google-play,end
 email-match,googleplay-noreply@google.com,fa-icon,google-play,end
 email-match,playpartners-noreply@google.com,fa-icon,google-play,end
