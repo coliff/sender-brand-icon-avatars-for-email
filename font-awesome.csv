@@ -133,6 +133,8 @@ email-match,@getbootstrap.com,fa-icon,bootstrap,end
 email-match,.getbootstrap.com,fa-icon,bootstrap,end
 email-match,@bots-inc.com,fa-icon,bots,end
 email-match,.bots-inc.com,fa-icon,bots,end
+email-match,@brave.com,fa-icon,brave,end
+email-match,.brave.com,fa-icon,brave,end
 email-match,@buffer.com,fa-icon,buffer,end
 email-match,.buffer.com,fa-icon,buffer,end
 email-match,@bueromoebel-experte.de,fa-icon,buromobelexperte,end
@@ -536,6 +538,8 @@ email-match,@surface.com,fa-icon,microsoft,end
 email-match,.surface.com,fa-icon,microsoft,end
 email-match,@zune.com,fa-icon,microsoft,end
 email-match,.zune.com,fa-icon,microsoft,end
+email-match,@mintbit.com,fa-icon,mintbit,end
+email-match,.mintbit.com,fa-icon,mintbit,end
 email-match,@mixcloud.com,fa-icon,mixcloud,end
 email-match,.mixcloud.com,fa-icon,mixcloud,end
 email-match,@mixer.com,fa-icon,mixer,end
