@@ -127,6 +127,10 @@ email-match,@blackberry.com,fa-icon,blackberry,end
 email-match,.blackberry.com,fa-icon,blackberry,end
 email-match,@blogger.com,fa-icon,blogger,end
 email-match,.blogger.com,fa-icon,blogger,end
+email-match,@bsky.app,fa-icon,bluesky,end
+email-match,.bsky.app,fa-icon,bluesky,end
+email-match,@bsky.social,fa-icon,bluesky,end
+email-match,.bsky.social,fa-icon,bluesky,end
 email-match,@bluetooth.com,fa-icon,bluetooth-b,end
 email-match,.bluetooth.com,fa-icon,bluetooth-b,end
 email-match,@getbootstrap.com,fa-icon,bootstrap,end
@@ -307,6 +311,8 @@ email-match,.@getfedora.org,fa-icon,fedora,end
 email-match,.getfedora.org,fa-icon,fedora,end
 email-match,@figma.com,fa-icon,figma,end
 email-match,.figma.com,fa-icon,figma,end
+email-match,@files.com,fa-icon,files-pinwheel,end
+email-match,.files.com,fa-icon,files-pinwheel,end
 email-match,@firefox.com,fa-icon,firefox,end
 email-match,.firefox.com,fa-icon,firefox,end
 email-match,@flickr.com,fa-icon,flickr,end
