@@ -2,9 +2,12 @@
   "version": "0.2",
   "allowCompoundWords": true,
   "dictionaryDefinitions": [],
-  "ignorePaths": [],
+  "ignorePaths": [
+    "*.csv"
+  ],
   "language": "en,en-US",
   "words": [
+    "coliff",
     "Oliff"
   ],
   "useGitignore": true
