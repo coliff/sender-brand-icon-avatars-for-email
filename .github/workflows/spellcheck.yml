@@ -1,4 +1,4 @@
-name: 'Check spelling' # https://github.com/streetsidesoftware/cspell-action#usage
+name: "Check spelling" # https://github.com/streetsidesoftware/cspell-action#usage
 on:
   push:
     branches-ignore:
