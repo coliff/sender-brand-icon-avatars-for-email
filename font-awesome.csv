@@ -227,12 +227,16 @@ email-match,@digitalocean.com,fa-icon,digital-ocean,end
 email-match,.digitalocean.com,fa-icon,digital-ocean,end
 email-match,@discordapp.com,fa-icon,discord,end
 email-match,.discordapp.com,fa-icon,discord,end
+email-match,@discord.com,fa-icon,discord,end
+email-match,.discord.com,fa-icon,discord,end
 email-match,@discourse.org,fa-icon,discourse,end
 email-match,.discourse.org,fa-icon,discourse,end
 email-match,@dochub.com,fa-icon,dochub,end
 email-match,.dochub.com,fa-icon,dochub,end
 email-match,@docker.com,fa-icon,docker,end
 email-match,.docker.com,fa-icon,docker,end
+email-match,@docker.io,fa-icon,docker,end
+email-match,.docker.io,fa-icon,docker,end
 email-match,@draft2digital.com,fa-icon,draft2digital,end
 email-match,.draft2digital.com,fa-icon,draft2digital,end
 email-match,@dribbble.com,fa-icon,dribbble,end
@@ -305,9 +309,15 @@ email-match,@facebookmail.com,fa-icon,facebook,end
 email-match,.facebookmail.com,fa-icon,facebook,end
 email-match,@fb.com,fa-icon,facebook,end
 email-match,.fb.com,fa-icon,facebook,end
+email-match,@messenger.com,fa-icon,facebook,end
+email-match,.messenger.com,fa-icon,facebook,end
+email-match,@meta.com,fa-icon,facebook,end
+email-match,.meta.com,fa-icon,facebook,end
+email-match,@metamail.com,fa-icon,facebook,end
+email-match,.metamail.com,fa-icon,facebook,end
 email-match,@fedex.com,fa-icon,fedex,end
 email-match,.fedex.com,fa-icon,fedex,end
-email-match,.@getfedora.org,fa-icon,fedora,end
+email-match,@getfedora.org,fa-icon,fedora,end
 email-match,.getfedora.org,fa-icon,fedora,end
 email-match,@figma.com,fa-icon,figma,end
 email-match,.figma.com,fa-icon,figma,end
@@ -344,6 +354,7 @@ email-match,notifications@github.com,fa-icon,github,end
 email-match,support@github.com,fa-icon,github,end
 email-match,.github.com,fa-icon,github,end
 email-match,@githubsupport.com,fa-icon,github,end
+email-match,.githubsupport.com,fa-icon,github,end
 email-match,@gitkraken.com,fa-icon,gitkraken,end
 email-match,.gitkraken.com,fa-icon,gitkraken,end
 email-match,@gitlab.com,fa-icon,gitlab,end
@@ -483,6 +494,10 @@ email-match,@line.me,fa-icon,line,end
 email-match,.line.me,fa-icon,line,end
 email-match,@linkedin.com,fa-icon,linkedin,end
 email-match,.linkedin.com,fa-icon,linkedin,end
+email-match,@licdn.com,fa-icon,linkedin,end
+email-match,.licdn.com,fa-icon,linkedin,end
+email-match,@lnkd.in,fa-icon,linkedin,end
+email-match,.lnkd.in,fa-icon,linkedin,end
 email-match,@linux.org,fa-icon,linux,end
 email-match,.linux.org,fa-icon,linux,end
 email-match,@linode.com,fa-icon,linode,end
@@ -690,6 +705,8 @@ email-match,@servicestack.net,fa-icon,servicestack,end
 email-match,.servicestack.net,fa-icon,servicestack,end
 email-match,@shopify.com,fa-icon,shopify,end
 email-match,.shopify.com,fa-icon,shopify,end
+email-match,@shop.app,fa-icon,shopify,end
+email-match,.shop.app,fa-icon,shopify,end
 email-match,@shopware.com,fa-icon,shopware,end
 email-match,.shopware.com,fa-icon,shopware,end
 email-match,@simplybuilt.com,fa-icon,simplybuilt,end
@@ -786,6 +803,8 @@ email-match,@thinkpeaks.com,fa-icon,think-peaks,end
 email-match,.thinkpeaks.com,fa-icon,think-peaks,end
 email-match,@threads.com,fa-icon,threads,end
 email-match,.threads.com,fa-icon,threads,end
+email-match,@threads.net,fa-icon,threads,end
+email-match,.threads.net,fa-icon,threads,end
 email-match,@tiktok.com,fa-icon,tiktok,end
 email-match,.tiktok.com,fa-icon,tiktok,end
 email-match,@trello.com,fa-icon,trello,end
@@ -859,6 +878,8 @@ email-match,@wx.qq.com,fa-icon,weixin,end
 email-match,.wx.qq.com,fa-icon,weixin,end
 email-match,@whatsapp.com,fa-icon,whatsapp,end
 email-match,.whatsapp.com,fa-icon,whatsapp,end
+email-match,@whatsapp.net,fa-icon,whatsapp,end
+email-match,.whatsapp.net,fa-icon,whatsapp,end
 email-match,@whmcs.com,fa-icon,whmcs,end
 email-match,.whmcs.com,fa-icon,whmcs,end
 email-match,@wikimedia.org,fa-icon,wikipedia-w,end
@@ -893,7 +914,7 @@ email-match,@wpressr.com,fa-icon,wpressr,end
 email-match,.wpressr.com,fa-icon,wpressr,end
 
 email-match,@x.com,fa-icon,x-twitter,end
-email-match,.@x.com,fa-icon,x-twitter,end
+email-match,.x.com,fa-icon,x-twitter,end
 email-match,@xbox.com,fa-icon,xbox,end
 email-match,.xbox.com,fa-icon,xbox,end
 email-match,@xboxone.com,fa-icon,xbox,end
@@ -920,6 +941,10 @@ email-match,@yoast.com,fa-icon,yoast,end
 email-match,.yoast.com,fa-icon,yoast,end
 email-match,@youtube.com,fa-icon,youtube,end
 email-match,.youtube.com,fa-icon,youtube,end
+email-match,@withyoutube.com,fa-icon,youtube,end
+email-match,.withyoutube.com,fa-icon,youtube,end
+email-match,@zoom.us,fa-icon,zoom,end
+email-match,.zoom.us,fa-icon,zoom,end
 
 email-match,@zhihu.com,fa-icon,zhihu,end
 email-match,.zhihu.com,fa-icon,zhihu,end
