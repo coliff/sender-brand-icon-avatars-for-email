@@ -166,6 +166,16 @@ email-match,@visa.co.jp,fa-icon,cc-visa,end
 email-match,.visa.co.jp,fa-icon,cc-visa,end
 email-match,@visa.co.uk,fa-icon,cc-visa,end
 email-match,.visa.co.uk,fa-icon,cc-visa,end
+email-match,@anthropic.com,fa-icon,claude,end
+email-match,.anthropic.com,fa-icon,claude,end
+email-match,@email.anthropic.com,fa-icon,claude,end
+email-match,.email.anthropic.com,fa-icon,claude,end
+email-match,@email1.anthropic.com,fa-icon,claude,end
+email-match,.email1.anthropic.com,fa-icon,claude,end
+email-match,@email2.anthropic.com,fa-icon,claude,end
+email-match,.email2.anthropic.com,fa-icon,claude,end
+email-match,@mail.anthropic.com,fa-icon,claude,end
+email-match,.mail.anthropic.com,fa-icon,claude,end
 
 email-match,@canada.ca,fa-icon,canadian-maple-leaf,end
 email-match,.canada.ca,fa-icon,canadian-maple-leaf,end
@@ -498,6 +508,8 @@ email-match,@licdn.com,fa-icon,linkedin,end
 email-match,.licdn.com,fa-icon,linkedin,end
 email-match,@lnkd.in,fa-icon,linkedin,end
 email-match,.lnkd.in,fa-icon,linkedin,end
+email-match,@linktr.ee,fa-icon,linktree,end
+email-match,.linktr.ee,fa-icon,linktree,end
 email-match,@linux.org,fa-icon,linux,end
 email-match,.linux.org,fa-icon,linux,end
 email-match,@linode.com,fa-icon,linode,end
@@ -578,6 +590,8 @@ email-match,@npmjs.com,fa-icon,npm,end
 email-match,.npmjs.com,fa-icon,npm,end
 email-match,@nodejs.org,fa-icon,node-js,end
 email-match,.nodejs.org,fa-icon,node-js,end
+email-match,@makenotion.com,fa-icon,notion,end
+email-match,.makenotion.com,fa-icon,notion,end
 email-match,@ns8.com,fa-icon,ns8,end
 email-match,.ns8.com,fa-icon,ns8,end
 email-match,@nutritionix.com,fa-icon,nutritionix,end
@@ -589,6 +603,8 @@ email-match,@ok.ru,fa-icon,odnoklassniki,end
 email-match,.ok.ru,fa-icon,odnoklassniki,end
 email-match,@opencart.com,fa-icon,opencart,end
 email-match,.opencart.com,fa-icon,opencart,end
+email-match,@openai.com,fa-icon,openai,end
+email-match,.openai.com,fa-icon,openai,end
 email-match,@openid.net,fa-icon,openid,end
 email-match,.openid.net,fa-icon,openid,end
 email-match,@opera.com,fa-icon,opera,end
@@ -715,6 +731,8 @@ email-match,@sistrix.com,fa-icon,sistrix,end
 email-match,.sistrix.com,fa-icon,sistrix,end
 email-match,@sitrox.com,fa-icon,sitrox,end
 email-match,.sitrox.com,fa-icon,sitrox,end
+email-match,@signal.org,fa-icon,signal-messenger,end
+email-match,.signal.org,fa-icon,signal-messenger,end
 email-match,@sketch.com,fa-icon,sketch,end
 email-match,.sketch.com,fa-icon,sketch,end
 email-match,@skyatlas.com,fa-icon,skyatlas,end
