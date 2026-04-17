@@ -253,8 +253,16 @@ email-match,@dribbble.com,fa-icon,dribbble,end
 email-match,.dribbble.com,fa-icon,dribbble,end
 email-match,@dropbox.com,fa-icon,dropbox,end
 email-match,.dropbox.com,fa-icon,dropbox,end
+email-match,@dropboxbusiness.com,fa-icon,dropbox,end
+email-match,.dropboxbusiness.com,fa-icon,dropbox,end
 email-match,@dropboxmail.com,fa-icon,dropbox,end
 email-match,.dropboxmail.com,fa-icon,dropbox,end
+email-match,@dropboxpartners.com,fa-icon,dropbox,end
+email-match,.dropboxpartners.com,fa-icon,dropbox,end
+email-match,@dropboxteam.com,fa-icon,dropbox,end
+email-match,.dropboxteam.com,fa-icon,dropbox,end
+email-match,@dropbox.zendesk.com,fa-icon,dropbox,end
+email-match,.dropbox.zendesk.com,fa-icon,dropbox,end
 email-match,@getdropbox.com,fa-icon,dropbox,end
 email-match,.getdropbox.com,fa-icon,dropbox,end
 email-match,@drupal.com,fa-icon,drupal,end
@@ -721,6 +729,8 @@ email-match,@servicestack.net,fa-icon,servicestack,end
 email-match,.servicestack.net,fa-icon,servicestack,end
 email-match,@shopify.com,fa-icon,shopify,end
 email-match,.shopify.com,fa-icon,shopify,end
+email-match,@shopifyemail.com,fa-icon,shopify,end
+email-match,.shopifyemail.com,fa-icon,shopify,end
 email-match,@shop.app,fa-icon,shopify,end
 email-match,.shop.app,fa-icon,shopify,end
 email-match,@shopware.com,fa-icon,shopware,end
