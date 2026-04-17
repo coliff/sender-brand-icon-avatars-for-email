@@ -731,6 +731,8 @@ email-match,@shopify.com,fa-icon,shopify,end
 email-match,.shopify.com,fa-icon,shopify,end
 email-match,@shopifyemail.com,fa-icon,shopify,end
 email-match,.shopifyemail.com,fa-icon,shopify,end
+email-match,@shopify-billpay.melio.com,fa-icon,shopify,end
+email-match,.shopify-billpay.melio.com,fa-icon,shopify,end
 email-match,@shop.app,fa-icon,shopify,end
 email-match,.shop.app,fa-icon,shopify,end
 email-match,@shopware.com,fa-icon,shopware,end
@@ -971,6 +973,8 @@ email-match,@youtube.com,fa-icon,youtube,end
 email-match,.youtube.com,fa-icon,youtube,end
 email-match,@withyoutube.com,fa-icon,youtube,end
 email-match,.withyoutube.com,fa-icon,youtube,end
+email-match,@zoomus.zendesk.com,fa-icon,zoom,end
+email-match,.zoomus.zendesk.com,fa-icon,zoom,end
 email-match,@zoom.us,fa-icon,zoom,end
 email-match,.zoom.us,fa-icon,zoom,end
 
