@@ -613,6 +613,8 @@ email-match,@opencart.com,fa-icon,opencart,end
 email-match,.opencart.com,fa-icon,opencart,end
 email-match,@openai.com,fa-icon,openai,end
 email-match,.openai.com,fa-icon,openai,end
+email-match,@c-openai.com,fa-icon,openai,end
+email-match,.c-openai.com,fa-icon,openai,end
 email-match,@openid.net,fa-icon,openid,end
 email-match,.openid.net,fa-icon,openid,end
 email-match,@opera.com,fa-icon,opera,end
