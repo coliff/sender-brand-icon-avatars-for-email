@@ -1,6 +1,8 @@
 email-match,@500px.com,fa-icon,500px,end
 email-match,.500px.com,fa-icon,500px,end
 
+email-match,@a11yproject.com,fa-icon,a11y-project,end
+email-match,.a11yproject.com,fa-icon,a11y-project,end
 email-match,@accusoft.com,fa-icon,accusoft,end
 email-match,.accusoft.com,fa-icon,accusoft,end
 email-match,@adversal.com,fa-icon,adversal,end
@@ -227,6 +229,8 @@ email-match,@dev.to,fa-icon,dev,end
 email-match,.dev.to,fa-icon,dev,end
 email-match,@deviantart.com,fa-icon,deviantart,end
 email-match,.deviantart.com,fa-icon,deviantart,end
+email-match,@devpost.com,fa-icon,devpost,end
+email-match,.devpost.com,fa-icon,devpost,end
 email-match,@dhl.com,fa-icon,dhl,end
 email-match,.dhl.com,fa-icon,dhl,end
 email-match,@diaspora.com,fa-icon,diaspora,end
@@ -535,6 +539,8 @@ email-match,@commonmark.org,fa-icon,markdown,end
 email-match,.commonmark.org,fa-icon,markdown,end
 email-match,@mastodon.social,fa-icon,mastodon,end
 email-match,.mastodon.social,fa-icon,mastodon,end
+email-match,@mattermost.com,fa-icon,mattermost,end
+email-match,.mattermost.com,fa-icon,mattermost,end
 email-match,@maxcdn.com,fa-icon,maxcdn,end
 email-match,.maxcdn.com,fa-icon,maxcdn,end
 email-match,@mdbootstrap.com,fa-icon,mdb,end
@@ -592,6 +598,8 @@ email-match,@napster.com,fa-icon,napster,end
 email-match,.napster.com,fa-icon,napster,end
 email-match,@neos.io,fa-icon,neos,end
 email-match,.neos.io,fa-icon,neos,end
+email-match,@nextcloud.com,fa-icon,nextcloud,end
+email-match,.nextcloud.com,fa-icon,nextcloud,end
 email-match,@nimblr.ai,fa-icon,nimblr,end
 email-match,.nimblr.ai,fa-icon,nimblr,end
 email-match,@npmjs.com,fa-icon,npm,end
@@ -814,6 +822,8 @@ email-match,@stripe.com,fa-icon,stripe,end
 email-match,.stripe.com,fa-icon,stripe,end
 email-match,@stubber.com,fa-icon,stubber,end
 email-match,.stubber.com,fa-icon,stubber,end
+email-match,@substack.com,fa-icon,substack,end
+email-match,.substack.com,fa-icon,substack,end
 email-match,@opensuse.org,fa-icon,suse,end
 email-match,.opensuse.org,fa-icon,suse,end
 email-match,@swift.org,fa-icon,swift,end
@@ -827,6 +837,8 @@ email-match,@telegram.org,fa-icon,telegram,end
 email-match,.telegram.org,fa-icon,telegram,end
 email-match,@t.qq.com,fa-icon,tencent-weibo,end
 email-match,.t.qq.com,fa-icon,tencent-weibo,end
+email-match,@tesla.com,fa-icon,tesla,end
+email-match,.tesla.com,fa-icon,tesla,end
 email-match,@theme.co,fa-icon,themeco,end
 email-match,.theme.co,fa-icon,themeco,end
 email-match,@themeisle.com,fa-icon,themeisle,end
