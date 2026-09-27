@@ -88,6 +88,8 @@ email-match,.apper.com,fa-icon,apper,end
 email-match,@apple.com,fa-icon,apple,end
 email-match,.apple.com,fa-icon,apple,end
 email-match,@inside.icloud.com,fa-icon,apple,end
+email-match,@archlinux.org,fa-icon,arch-linux,end
+email-match,.archlinux.org,fa-icon,arch-linux,end
 email-match,@artstation.com,fa-icon,artstation,end
 email-match,.artstation.com,fa-icon,artstation,end
 email-match,@asymmetrik.com,fa-icon,asymmetrik,end
@@ -111,6 +113,8 @@ email-match,@battle.net,fa-icon,battle-net,end
 email-match,.battle.net,fa-icon,battle-net,end
 email-match,@behance.com,fa-icon,behance,end
 email-match,.behance.com,fa-icon,behance,end
+email-match,@bilibili.com,fa-icon,bilibili,end
+email-match,.bilibili.com,fa-icon,bilibili,end
 email-match,@bimobject.com,fa-icon,bimobject,end
 email-match,.bimobject.com,fa-icon,bimobject,end
 email-match,@bitbucket.com,fa-icon,bitbucket,end
@@ -135,6 +139,8 @@ email-match,@bsky.social,fa-icon,bluesky,end
 email-match,.bsky.social,fa-icon,bluesky,end
 email-match,@bluetooth.com,fa-icon,bluetooth-b,end
 email-match,.bluetooth.com,fa-icon,bluetooth-b,end
+email-match,@boardgamegeek.com,fa-icon,board-game-geek,end
+email-match,.boardgamegeek.com,fa-icon,board-game-geek,end
 email-match,@getbootstrap.com,fa-icon,bootstrap,end
 email-match,.getbootstrap.com,fa-icon,bootstrap,end
 email-match,@bots-inc.com,fa-icon,bots,end
@@ -148,6 +154,9 @@ email-match,.bueromoebel-experte.de,fa-icon,buromobelexperte,end
 email-match,@buysellads.com,fa-icon,buysellads,end
 email-match,.buysellads.com,fa-icon,buysellads,end
 
+email-match,@cash.app,fa-icon,cash-app,end
+email-match,.cash.app,fa-icon,cash-app,end
+email-match,cash@square.com,fa-icon,cash-app,end
 email-match,@americanexpress,fa-icon,cc-amex,end
 email-match,.americanexpress,fa-icon,cc-amex,end
 email-match,@americanexpress.com,fa-icon,cc-amex,end
@@ -198,6 +207,8 @@ email-match,@cloudsmith.io,fa-icon,cloudsmith,end
 email-match,.cloudsmith.io,fa-icon,cloudsmith,end
 email-match,@cloudversify.com,fa-icon,cloudversify,end
 email-match,.cloudversify.com,fa-icon,cloudversify,end
+email-match,@codeberg.org,fa-icon,codeberg,end
+email-match,.codeberg.org,fa-icon,codeberg,end
 email-match,@codepen.io,fa-icon,codepen,end
 email-match,.codepen.io,fa-icon,codepen,end
 email-match,@codiepie.com,fa-icon,codiepie,end
@@ -212,15 +223,21 @@ email-match,@cpanel.com,fa-icon,cpanel,end
 email-match,.cpanel.com,fa-icon,cpanel,end
 email-match,@cpanel.net,fa-icon,cpanel,end
 email-match,.cpanel.net,fa-icon,cpanel,end
+email-match,@creativecommons.org,fa-icon,creative-commons,end
+email-match,.creativecommons.org,fa-icon,creative-commons,end
 email-match,@critrole.com,fa-icon,critical-role,end
 email-match,.critrole.com,fa-icon,critical-role,end
 email-match,@wearecuttlefish.com,fa-icon,cuttlefish,end
 email-match,.wearecuttlefish.com,fa-icon,cuttlefish,end
 
+email-match,@dndbeyond.com,fa-icon,d-and-d-beyond,end
+email-match,.dndbeyond.com,fa-icon,d-and-d-beyond,end
 email-match,@dailymotion.com,fa-icon,dailymotion,end
 email-match,.dailymotion.com,fa-icon,dailymotion,end
 email-match,@dashcube.com,fa-icon,dashcube,end
 email-match,.dashcube.com,fa-icon,dashcube,end
+email-match,@debian.org,fa-icon,debian,end
+email-match,.debian.org,fa-icon,debian,end
 email-match,@deezer.com,fa-icon,deezer,end
 email-match,.deezer.com,fa-icon,deezer,end
 email-match,@deskpro.com,fa-icon,deskpro,end
@@ -245,12 +262,18 @@ email-match,@discord.com,fa-icon,discord,end
 email-match,.discord.com,fa-icon,discord,end
 email-match,@discourse.org,fa-icon,discourse,end
 email-match,.discourse.org,fa-icon,discourse,end
+email-match,@disqus.com,fa-icon,disqus,end
+email-match,.disqus.com,fa-icon,disqus,end
+email-match,@disqus.net,fa-icon,disqus,end
+email-match,.disqus.net,fa-icon,disqus,end
 email-match,@dochub.com,fa-icon,dochub,end
 email-match,.dochub.com,fa-icon,dochub,end
 email-match,@docker.com,fa-icon,docker,end
 email-match,.docker.com,fa-icon,docker,end
 email-match,@docker.io,fa-icon,docker,end
 email-match,.docker.io,fa-icon,docker,end
+email-match,@dolibarr.org,fa-icon,dolibarr,end
+email-match,.dolibarr.org,fa-icon,dolibarr,end
 email-match,@draft2digital.com,fa-icon,draft2digital,end
 email-match,.draft2digital.com,fa-icon,draft2digital,end
 email-match,@dribbble.com,fa-icon,dribbble,end
@@ -273,6 +296,8 @@ email-match,@drupal.com,fa-icon,drupal,end
 email-match,.drupal.com,fa-icon,drupal,end
 email-match,@drupal.org,fa-icon,drupal,end
 email-match,.drupal.org,fa-icon,drupal,end
+email-match,@duolingo.com,fa-icon,duolingo,end
+email-match,.duolingo.com,fa-icon,duolingo,end
 email-match,@dyalog.com,fa-icon,dyalog,end
 email-match,.dyalog.com,fa-icon,dyalog,end
 
@@ -337,6 +362,8 @@ email-match,@meta.com,fa-icon,facebook,end
 email-match,.meta.com,fa-icon,facebook,end
 email-match,@metamail.com,fa-icon,facebook,end
 email-match,.metamail.com,fa-icon,facebook,end
+email-match,@fantasyflightgames.com,fa-icon,fantasy-flight-games,end
+email-match,.fantasyflightgames.com,fa-icon,fantasy-flight-games,end
 email-match,@fedex.com,fa-icon,fedex,end
 email-match,.fedex.com,fa-icon,fedex,end
 email-match,@getfedora.org,fa-icon,fedora,end
@@ -368,6 +395,8 @@ email-match,@getpocket.com,fa-icon,get-pocket,end
 email-match,.getpocket.com,fa-icon,get-pocket,end
 email-match,@git-scm.com,fa-icon,git-alt,end
 email-match,.git-scm.com,fa-icon,git-alt,end
+email-match,@gitee.com,fa-icon,gitee,end
+email-match,.gitee.com,fa-icon,gitee,end
 email-match,@atom.io,fa-icon,github,end
 email-match,.atom.io,fa-icon,github,end
 email-match,noreply@github.com,fa-icon,github,end
@@ -420,6 +449,7 @@ email-match,googleplay-noreply@google.com,fa-icon,google-play,end
 email-match,playpartners-noreply@google.com,fa-icon,google-play,end
 email-match,news-googleplay@google.com,fa-icon,google-play,end
 email-match,plus.google.com,fa-icon,google-plus,end
+email-match,scholaralerts-noreply@google.com,fa-icon,google-scholar,end
 email-match,@gratipay.com,fa-icon,gratipay,end
 email-match,.gratipay.com,fa-icon,gratipay,end
 email-match,@getgrav.org,fa-icon,grav,end
@@ -453,7 +483,11 @@ email-match,@hubspotfree.net,fa-icon,hubspot,end
 email-match,.hubspotfree.net,fa-icon,hubspot,end
 email-match,@hubspotstarter.net,fa-icon,hubspot,end
 email-match,.hubspotstarter.net,fa-icon,hubspot,end
+email-match,@huggingface.co,fa-icon,hugging-face,end
+email-match,.huggingface.co,fa-icon,hugging-face,end
 
+email-match,@archive.org,fa-icon,internet-archive,end
+email-match,.archive.org,fa-icon,internet-archive,end
 email-match,@itch.io,fa-icon,itch-io,end
 email-match,.itch.io,fa-icon,itch-io,end
 email-match,@imdb.com,fa-icon,imdb,end
@@ -490,15 +524,23 @@ email-match,@javascript.com,fa-icon,js,end
 email-match,.javascript.com,fa-icon,js,end
 email-match,@jsfiddle.net,fa-icon,jsfiddle,end
 email-match,.jsfiddle.net,fa-icon,jsfiddle,end
+email-match,@julialang.org,fa-icon,julia,end
+email-match,.julialang.org,fa-icon,julia,end
 
 email-match,@kaggle.com,fa-icon,kaggle,end
 email-match,.kaggle.com,fa-icon,kaggle,end
+email-match,@kakao.com,fa-icon,kakao-talk,end
+email-match,.kakao.com,fa-icon,kakao-talk,end
+email-match,@kakaocorp.com,fa-icon,kakao-talk,end
+email-match,.kakaocorp.com,fa-icon,kakao-talk,end
 email-match,@keybase.io,fa-icon,keybase,end
 email-match,.keybase.io,fa-icon,keybase,end
 email-match,@keycdn.com,fa-icon,keycdn,end
 email-match,.keycdn.com,fa-icon,keycdn,end
 email-match,@kickstarter.com,fa-icon,kickstarter,end
 email-match,.kickstarter.com,fa-icon,kickstarter,end
+email-match,@ko-fi.com,fa-icon,ko-fi,end
+email-match,.ko-fi.com,fa-icon,ko-fi,end
 email-match,@korvue.com,fa-icon,korvue,end
 email-match,.korvue.com,fa-icon,korvue,end
 
@@ -510,8 +552,16 @@ email-match,@last.fm,fa-icon,lastfm,end
 email-match,.last.fm,fa-icon,lastfm,end
 email-match,@leanpub.com,fa-icon,leanpub,end
 email-match,.leanpub.com,fa-icon,leanpub,end
+email-match,@leetcode.com,fa-icon,leetcode,end
+email-match,.leetcode.com,fa-icon,leetcode,end
+email-match,@leetcode.cn,fa-icon,leetcode,end
+email-match,.leetcode.cn,fa-icon,leetcode,end
 email-match,@lesscss.org,fa-icon,less,end
 email-match,.lesscss.org,fa-icon,less,end
+email-match,@letsencrypt.org,fa-icon,lets-encrypt,end
+email-match,.letsencrypt.org,fa-icon,lets-encrypt,end
+email-match,@letterboxd.com,fa-icon,letterboxd,end
+email-match,.letterboxd.com,fa-icon,letterboxd,end
 email-match,@line.me,fa-icon,line,end
 email-match,.line.me,fa-icon,line,end
 email-match,@linkedin.com,fa-icon,linkedin,end
@@ -539,6 +589,8 @@ email-match,@commonmark.org,fa-icon,markdown,end
 email-match,.commonmark.org,fa-icon,markdown,end
 email-match,@mastodon.social,fa-icon,mastodon,end
 email-match,.mastodon.social,fa-icon,mastodon,end
+email-match,@matrix.org,fa-icon,matrix,end
+email-match,.matrix.org,fa-icon,matrix,end
 email-match,@mattermost.com,fa-icon,mattermost,end
 email-match,.mattermost.com,fa-icon,mattermost,end
 email-match,@maxcdn.com,fa-icon,maxcdn,end
@@ -555,6 +607,8 @@ email-match,@meetup.com,fa-icon,meetup,end
 email-match,.meetup.com,fa-icon,meetup,end
 email-match,@megaport.com,fa-icon,megaport,end
 email-match,.megaport.com,fa-icon,megaport,end
+email-match,@mendeley.com,fa-icon,mendeley,end
+email-match,.mendeley.com,fa-icon,mendeley,end
 email-match,@micro.blog,fa-icon,microblog,end
 email-match,.micro.blog,fa-icon,microblog,end
 email-match,@appcenter.ms,fa-icon,microsoft,end
@@ -613,10 +667,16 @@ email-match,.ns8.com,fa-icon,ns8,end
 email-match,@nutritionix.com,fa-icon,nutritionix,end
 email-match,.nutritionix.com,fa-icon,nutritionix,end
 
+email-match,@obsproject.com,fa-icon,obs-studio,end
+email-match,.obsproject.com,fa-icon,obs-studio,end
+email-match,@obsidian.md,fa-icon,obsidian,end
+email-match,.obsidian.md,fa-icon,obsidian,end
 email-match,@octopus.com,fa-icon,octopus-deploy,end
 email-match,.octopus.com,fa-icon,octopus-deploy,end
 email-match,@ok.ru,fa-icon,odnoklassniki,end
 email-match,.ok.ru,fa-icon,odnoklassniki,end
+email-match,@odysee.com,fa-icon,odysee,end
+email-match,.odysee.com,fa-icon,odysee,end
 email-match,@opencart.com,fa-icon,opencart,end
 email-match,.opencart.com,fa-icon,opencart,end
 email-match,@openai.com,fa-icon,openai,end
@@ -625,6 +685,10 @@ email-match,@c-openai.com,fa-icon,openai,end
 email-match,.c-openai.com,fa-icon,openai,end
 email-match,@openid.net,fa-icon,openid,end
 email-match,.openid.net,fa-icon,openid,end
+email-match,@openstreetmap.org,fa-icon,openstreetmap,end
+email-match,.openstreetmap.org,fa-icon,openstreetmap,end
+email-match,@osmfoundation.org,fa-icon,openstreetmap,end
+email-match,.osmfoundation.org,fa-icon,openstreetmap,end
 email-match,@opera.com,fa-icon,opera,end
 email-match,.opera.com,fa-icon,opera,end
 email-match,@optinmonster.com,fa-icon,optin-monster,end
@@ -642,6 +706,8 @@ email-match,@pagelines.com,fa-icon,pagelines,end
 email-match,.pagelines.com,fa-icon,pagelines,end
 email-match,@palfed.com,fa-icon,palfed,end
 email-match,.palfed.com,fa-icon,palfed,end
+email-match,@pandora.com,fa-icon,pandora,end
+email-match,.pandora.com,fa-icon,pandora,end
 email-match,@patreon.com,fa-icon,patreon,end
 email-match,.patreon.com,fa-icon,patreon,end
 email-match,@paypal.com,fa-icon,paypal,end
@@ -664,6 +730,8 @@ email-match,@piedpiper.com,fa-icon,pied-piper-hat,end
 email-match,.piedpiper.com,fa-icon,pied-piper-hat,end
 email-match,@pinterest.com,fa-icon,pinterest,end
 email-match,.pinterest.com,fa-icon,pinterest,end
+email-match,@pixiv.net,fa-icon,pixiv,end
+email-match,.pixiv.net,fa-icon,pixiv,end
 email-match,@playstation.com,fa-icon,playstation,end
 email-match,.playstation.com,fa-icon,playstation,end
 email-match,@playstation.net,fa-icon,playstation,end
@@ -674,6 +742,8 @@ email-match,@playstationmail.net,fa-icon,playstation,end
 email-match,.playstationmail.net,fa-icon,playstation,end
 email-match,@sonyentertainmentnetwork.com,fa-icon,playstation,end
 email-match,.sonyentertainmentnetwork.com,fa-icon,playstation,end
+email-match,@postgresql.org,fa-icon,postgresql,end
+email-match,.postgresql.org,fa-icon,postgresql,end
 email-match,@producthunt.com,fa-icon,product-hunt,end
 email-match,.producthunt.com,fa-icon,product-hunt,end
 email-match,@pushed.co,fa-icon,pushed,end
@@ -708,6 +778,8 @@ email-match,@opensource.com,fa-icon,redhat,end
 email-match,.opensource.com,fa-icon,redhat,end
 email-match,@renren.com,fa-icon,renren,end
 email-match,.renren.com,fa-icon,renren,end
+email-match,@researchgate.net,fa-icon,researchgate,end
+email-match,.researchgate.net,fa-icon,researchgate,end
 email-match,@rev.io,fa-icon,rev,end
 email-match,.rev.io,fa-icon,rev,end
 email-match,@rocket.chat,fa-icon,rocketchat,end
@@ -725,6 +797,8 @@ email-match,@work.com,fa-icon,salesforce,end
 email-match,.work.com,fa-icon,salesforce,end
 email-match,@sass-lang.com,fa-icon,sass,end
 email-match,.sass-lang.com,fa-icon,sass,end
+email-match,@scaleway.com,fa-icon,scaleway,end
+email-match,.scaleway.com,fa-icon,scaleway,end
 email-match,@schlix.com,fa-icon,schlix,end
 email-match,.schlix.com,fa-icon,schlix,end
 email-match,@screencast-o-matic.com,fa-icon,screenpal,end
@@ -779,6 +853,8 @@ email-match,@slideshare.net,fa-icon,slideshare,end
 email-match,.slideshare.net,fa-icon,slideshare,end
 email-match,@snapchat.com,fa-icon,snapchat,end
 email-match,.snapchat.com,fa-icon,snapchat,end
+email-match,@solana.com,fa-icon,solana,end
+email-match,.solana.com,fa-icon,solana,end
 email-match,@soundcloud.com,fa-icon,soundcloud,end
 email-match,.soundcloud.com,fa-icon,soundcloud,end
 email-match,@soundcloudmail.com,fa-icon,soundcloud,end
@@ -805,7 +881,6 @@ email-match,@stackoverflow.com,fa-icon,stack-overflow,end
 email-match,.stackoverflow.com,fa-icon,stack-overflow,end
 email-match,@stackoverflow.email,fa-icon,stack-overflow,end
 email-match,.stackoverflow.email,fa-icon,stack-overflow,end
-email-match,.stackoverflow.email,fa-icon,stack-overflow,end
 email-match,@stackpath.com,fa-icon,stackpath,end
 email-match,.stackpath.com,fa-icon,stackpath,end
 email-match,@staylinked.com,fa-icon,staylinked,end
@@ -814,6 +889,8 @@ email-match,@steamgames.com,fa-icon,steam,end
 email-match,.steamgames.com,fa-icon,steam,end
 email-match,@steampowered.com,fa-icon,steam,end
 email-match,.steampowered.com,fa-icon,steam,end
+email-match,@stickermule.com,fa-icon,sticker-mule,end
+email-match,.stickermule.com,fa-icon,sticker-mule,end
 email-match,@strava.com,fa-icon,strava,end
 email-match,.strava.com,fa-icon,strava,end
 email-match,@studiovinari.com,fa-icon,studiovinari,end
@@ -830,7 +907,13 @@ email-match,@swift.org,fa-icon,swift,end
 email-match,.swift.org,fa-icon,swift,end
 email-match,@symfony.com,fa-icon,symfony,end
 email-match,.symfony.com,fa-icon,symfony,end
+email-match,@symfonycasts.com,fa-icon,symfonycasts,end
+email-match,.symfonycasts.com,fa-icon,symfonycasts,end
 
+email-match,@tailwindcss.com,fa-icon,tailwind-css,end
+email-match,.tailwindcss.com,fa-icon,tailwind-css,end
+email-match,@tailwindui.com,fa-icon,tailwind-css,end
+email-match,.tailwindui.com,fa-icon,tailwind-css,end
 email-match,@teamspeak.com,fa-icon,teamspeak,end
 email-match,.teamspeak.com,fa-icon,teamspeak,end
 email-match,@telegram.org,fa-icon,telegram,end
@@ -849,8 +932,14 @@ email-match,@threads.com,fa-icon,threads,end
 email-match,.threads.com,fa-icon,threads,end
 email-match,@threads.net,fa-icon,threads,end
 email-match,.threads.net,fa-icon,threads,end
+email-match,@threema.ch,fa-icon,threema,end
+email-match,.threema.ch,fa-icon,threema,end
+email-match,@tidal.com,fa-icon,tidal,end
+email-match,.tidal.com,fa-icon,tidal,end
 email-match,@tiktok.com,fa-icon,tiktok,end
 email-match,.tiktok.com,fa-icon,tiktok,end
+email-match,@torproject.org,fa-icon,tor-browser,end
+email-match,.torproject.org,fa-icon,tor-browser,end
 email-match,@trello.com,fa-icon,trello,end
 email-match,.trello.com,fa-icon,trello,end
 email-match,@tumblr.com,fa-icon,tumblr,end
@@ -870,6 +959,8 @@ email-match,@ubuntu.com,fa-icon,ubuntu,end
 email-match,.ubuntu.com,fa-icon,ubuntu,end
 email-match,@getuikit.com,fa-icon,uikit,end
 email-match,.getuikit.com,fa-icon,uikit,end
+email-match,@ultralytics.com,fa-icon,ultralytics,end
+email-match,.ultralytics.com,fa-icon,ultralytics,end
 email-match,@umbraco.com,fa-icon,umbraco,end
 email-match,.umbraco.com,fa-icon,umbraco,end
 email-match,@uncharted.software,fa-icon,uncharted,end
@@ -880,12 +971,16 @@ email-match,@unity.com,fa-icon,unity,end
 email-match,.unity.com,fa-icon,unity,end
 email-match,@unity3d.com,fa-icon,unity,end
 email-match,.unity3d.com,fa-icon,unity,end
+email-match,@unrealengine.com,fa-icon,unreal-engine,end
+email-match,.unrealengine.com,fa-icon,unreal-engine,end
 email-match,@unsplash.com,fa-icon,unsplash,end
 email-match,.unsplash.com,fa-icon,unsplash,end
 email-match,@untappd.com,fa-icon,untappd,end
 email-match,.untappd.com,fa-icon,untappd,end
 email-match,@ups.com,fa-icon,ups,end
 email-match,.ups.com,fa-icon,ups,end
+email-match,@upwork.com,fa-icon,upwork,end
+email-match,.upwork.com,fa-icon,upwork,end
 email-match,@usb.org,fa-icon,usb,end
 email-match,.usb.org,fa-icon,usb,end
 email-match,@usps.com,fa-icon,usps,end
@@ -895,6 +990,8 @@ email-match,.ussunnah.org,fa-icon,ussunnah,end
 
 email-match,@vaadin.com,fa-icon,vaadin,end
 email-match,.vaadin.com,fa-icon,vaadin,end
+email-match,@venmo.com,fa-icon,venmo,end
+email-match,.venmo.com,fa-icon,venmo,end
 email-match,@viacoin.org,fa-icon,viacoin,end
 email-match,.viacoin.org,fa-icon,viacoin,end
 email-match,@viadeo.com,fa-icon,viadeo,end
@@ -905,15 +1002,25 @@ email-match,@viber.co.jp,fa-icon,viber,end
 email-match,.viber.co.jp,fa-icon,viber,end
 email-match,@vimeo.com,fa-icon,vimeo-v,end
 email-match,.vimeo.com,fa-icon,vimeo-v,end
+email-match,@vk.com,fa-icon,vk,end
+email-match,.vk.com,fa-icon,vk,end
 email-match,@vnv.ch,fa-icon,vnv,end
 email-match,.vnv.ch,fa-icon,vnv,end
+email-match,@vsco.co,fa-icon,vsco,end
+email-match,.vsco.co,fa-icon,vsco,end
 email-match,@vuejs.org,fa-icon,vuejs,end
 email-match,.vuejs.org,fa-icon,vuejs,end
 
+email-match,@w3.org,fa-icon,w3c,end
+email-match,.w3.org,fa-icon,w3c,end
 email-match,@watchmanmonitoring.com,fa-icon,watchman-monitoring,end
 email-match,.watchmanmonitoring.com,fa-icon,watchman-monitoring,end
 email-match,@waze.com,fa-icon,waze,end
 email-match,.waze.com,fa-icon,waze,end
+email-match,@webawesome.com,fa-icon,web-awesome,end
+email-match,.webawesome.com,fa-icon,web-awesome,end
+email-match,@webflow.com,fa-icon,webflow,end
+email-match,.webflow.com,fa-icon,webflow,end
 email-match,@weebly.com,fa-icon,weebly,end
 email-match,.weebly.com,fa-icon,weebly,end
 email-match,@weibo.com,fa-icon,weibo,end
@@ -994,3 +1101,7 @@ email-match,.zoom.us,fa-icon,zoom,end
 
 email-match,@zhihu.com,fa-icon,zhihu,end
 email-match,.zhihu.com,fa-icon,zhihu,end
+email-match,@zulip.com,fa-icon,zulip,end
+email-match,.zulip.com,fa-icon,zulip,end
+email-match,@zulipchat.com,fa-icon,zulip,end
+email-match,.zulipchat.com,fa-icon,zulip,end

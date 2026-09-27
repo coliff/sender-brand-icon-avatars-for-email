@@ -17,3 +17,7 @@
 - Limit number of Dependabot PRs to be open to 2.
 - Dependabot config should be formatted with Prettier.
 - Dependencies should have a cooldown period of 7 days.
+
+## Git
+
+- Use meaningful, descriptive branch names that summarize the change (e.g. `chore/update-github-actions`, `feat/add-font-awesome-brands`, `fix/duplicate-csv-entry`), not auto-generated or random names.
