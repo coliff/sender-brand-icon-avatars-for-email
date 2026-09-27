@@ -10,6 +10,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     name: Lint Code Base
@@ -17,10 +21,10 @@ jobs:
 
     permissions:
       contents: read
-      packages: read
-      issues: write
-      pull-requests: write
-      statuses: write
+      packages: read # to pull the super-linter container image
+      issues: write # to post the linter summary comment
+      pull-requests: write # to post the linter summary comment on PRs
+      statuses: write # to report per-language commit statuses
 
     steps:
       - name: Checkout Code
@@ -41,7 +45,6 @@ jobs:
           VALIDATE_BIOME_FORMAT: false
           VALIDATE_BIOME_LINT: false
           VALIDATE_CHECKOV: false
-          VALIDATE_GITHUB_ACTIONS_ZIZMOR: false
           VALIDATE_JSCPD: false
           VALIDATE_JSON_PRETTIER: false
           VALIDATE_MARKDOWN: false
