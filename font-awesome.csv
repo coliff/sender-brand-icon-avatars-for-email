@@ -39,6 +39,8 @@ email-match,@amazon.com.au,fa-icon,amazon,end
 email-match,.amazon.com.au,fa-icon,amazon,end
 email-match,@amazon.com.br,fa-icon,amazon,end
 email-match,.amazon.com.br,fa-icon,amazon,end
+email-match,@amazon.com.be,fa-icon,amazon,end
+email-match,.amazon.com.be,fa-icon,amazon,end
 email-match,@amazon.com.mx,fa-icon,amazon,end
 email-match,.amazon.com.mx,fa-icon,amazon,end
 email-match,@amazon.com.tr,fa-icon,amazon,end
@@ -51,6 +53,8 @@ email-match,@amazon.cn,fa-icon,amazon,end
 email-match,.amazon.cn,fa-icon,amazon,end
 email-match,@amazon.de,fa-icon,amazon,end
 email-match,.amazon.de,fa-icon,amazon,end
+email-match,@amazon.eg,fa-icon,amazon,end
+email-match,.amazon.eg,fa-icon,amazon,end
 email-match,@amazon.es,fa-icon,amazon,end
 email-match,.amazon.es,fa-icon,amazon,end
 email-match,@amazon.fr,fa-icon,amazon,end
@@ -96,6 +100,8 @@ email-match,@asymmetrik.com,fa-icon,asymmetrik,end
 email-match,.asymmetrik.com,fa-icon,asymmetrik,end
 email-match,@atlassian.com,fa-icon,atlassian,end
 email-match,.atlassian.com,fa-icon,atlassian,end
+email-match,@atlassian.net,fa-icon,atlassian,end
+email-match,.atlassian.net,fa-icon,atlassian,end
 email-match,@statuspage.io,fa-icon,atlassian,end
 email-match,.statuspage.io,fa-icon,atlassian,end
 email-match,@audible.com,fa-icon,audible,end
@@ -161,6 +167,12 @@ email-match,@americanexpress,fa-icon,cc-amex,end
 email-match,.americanexpress,fa-icon,cc-amex,end
 email-match,@americanexpress.com,fa-icon,cc-amex,end
 email-match,.americanexpress.com,fa-icon,cc-amex,end
+email-match,@dinersclub.com,fa-icon,cc-diners-club,end
+email-match,.dinersclub.com,fa-icon,cc-diners-club,end
+email-match,@discover.com,fa-icon,cc-discover,end
+email-match,.discover.com,fa-icon,cc-discover,end
+email-match,@jcb.co.jp,fa-icon,cc-jcb,end
+email-match,.jcb.co.jp,fa-icon,cc-jcb,end
 email-match,@mastercard.com,fa-icon,cc-mastercard,end
 email-match,.mastercard.com,fa-icon,cc-mastercard,end
 email-match,@mastercard.co.uk,fa-icon,cc-mastercard,end
@@ -250,6 +262,10 @@ email-match,@devpost.com,fa-icon,devpost,end
 email-match,.devpost.com,fa-icon,devpost,end
 email-match,@dhl.com,fa-icon,dhl,end
 email-match,.dhl.com,fa-icon,dhl,end
+email-match,@dhl.co.uk,fa-icon,dhl,end
+email-match,.dhl.co.uk,fa-icon,dhl,end
+email-match,@dhl.de,fa-icon,dhl,end
+email-match,.dhl.de,fa-icon,dhl,end
 email-match,@diaspora.com,fa-icon,diaspora,end
 email-match,.diaspora.com,fa-icon,diaspora,end
 email-match,@digg.com,fa-icon,digg,end
@@ -307,8 +323,12 @@ email-match,@ebay.be,fa-icon,ebay,end
 email-match,.ebay.be,fa-icon,ebay,end
 email-match,@ebay.ca,fa-icon,ebay,end
 email-match,.ebay.ca,fa-icon,ebay,end
+email-match,@ebay.ch,fa-icon,ebay,end
+email-match,.ebay.ch,fa-icon,ebay,end
 email-match,@ebay.com,fa-icon,ebay,end
 email-match,.ebay.com,fa-icon,ebay,end
+email-match,@ebay.com.au,fa-icon,ebay,end
+email-match,.ebay.com.au,fa-icon,ebay,end
 email-match,@ebayglobalshipping.com,fa-icon,ebay,end
 email-match,.ebayglobalshipping.com,fa-icon,ebay,end
 email-match,@ebay.co.uk,fa-icon,ebay,end
@@ -368,6 +388,8 @@ email-match,@fedex.com,fa-icon,fedex,end
 email-match,.fedex.com,fa-icon,fedex,end
 email-match,@getfedora.org,fa-icon,fedora,end
 email-match,.getfedora.org,fa-icon,fedora,end
+email-match,@fedoraproject.org,fa-icon,fedora,end
+email-match,.fedoraproject.org,fa-icon,fedora,end
 email-match,@figma.com,fa-icon,figma,end
 email-match,.figma.com,fa-icon,figma,end
 email-match,@files.com,fa-icon,files-pinwheel,end
@@ -443,6 +465,8 @@ email-match,@withgoogle.com,fa-icon,google,end
 email-match,.withgoogle.com,fa-icon,google,end
 email-match,developer-console@google.com,fa-icon,google,end
 email-match,drive-shares-noreply@google.com,fa-icon,google-drive,end
+email-match,drive-shares-dm-noreply@google.com,fa-icon,google-drive,end
+email-match,payments-noreply@google.com,fa-icon,google-pay,end
 email-match,play-developer-console@google.com,fa-icon,google-play,end
 email-match,-googleplay@google.com,fa-icon,google-play,end
 email-match,googleplay-noreply@google.com,fa-icon,google-play,end
@@ -645,6 +669,8 @@ email-match,@mixcloud.com,fa-icon,mixcloud,end
 email-match,.mixcloud.com,fa-icon,mixcloud,end
 email-match,@mixer.com,fa-icon,mixer,end
 email-match,.mixer.com,fa-icon,mixer,end
+email-match,@modx.com,fa-icon,modx,end
+email-match,.modx.com,fa-icon,modx,end
 email-match,@getmonero.org,fa-icon,monero,end
 email-match,.getmonero.org,fa-icon,monero,end
 
@@ -662,6 +688,10 @@ email-match,@nodejs.org,fa-icon,node-js,end
 email-match,.nodejs.org,fa-icon,node-js,end
 email-match,@makenotion.com,fa-icon,notion,end
 email-match,.makenotion.com,fa-icon,notion,end
+email-match,@notion.com,fa-icon,notion,end
+email-match,.notion.com,fa-icon,notion,end
+email-match,@notion.so,fa-icon,notion,end
+email-match,.notion.so,fa-icon,notion,end
 email-match,@ns8.com,fa-icon,ns8,end
 email-match,.ns8.com,fa-icon,ns8,end
 email-match,@nutritionix.com,fa-icon,nutritionix,end
@@ -772,6 +802,8 @@ email-match,@starwars.com,fa-icon,rebel,end
 email-match,.starwars.com,fa-icon,rebel,end
 email-match,@reddit.com,fa-icon,reddit,end
 email-match,.reddit.com,fa-icon,reddit,end
+email-match,@redditmail.com,fa-icon,reddit,end
+email-match,.redditmail.com,fa-icon,reddit,end
 email-match,@redhat.com,fa-icon,redhat,end
 email-match,.redhat.com,fa-icon,redhat,end
 email-match,@opensource.com,fa-icon,redhat,end
@@ -853,6 +885,8 @@ email-match,@slideshare.net,fa-icon,slideshare,end
 email-match,.slideshare.net,fa-icon,slideshare,end
 email-match,@snapchat.com,fa-icon,snapchat,end
 email-match,.snapchat.com,fa-icon,snapchat,end
+email-match,@snap.com,fa-icon,snapchat,end
+email-match,.snap.com,fa-icon,snapchat,end
 email-match,@solana.com,fa-icon,solana,end
 email-match,.solana.com,fa-icon,solana,end
 email-match,@soundcloud.com,fa-icon,soundcloud,end
@@ -1096,6 +1130,8 @@ email-match,@withyoutube.com,fa-icon,youtube,end
 email-match,.withyoutube.com,fa-icon,youtube,end
 email-match,@zoomus.zendesk.com,fa-icon,zoom,end
 email-match,.zoomus.zendesk.com,fa-icon,zoom,end
+email-match,@zoom.com,fa-icon,zoom,end
+email-match,.zoom.com,fa-icon,zoom,end
 email-match,@zoom.us,fa-icon,zoom,end
 email-match,.zoom.us,fa-icon,zoom,end
 
