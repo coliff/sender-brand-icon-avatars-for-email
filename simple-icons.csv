@@ -182,7 +182,6 @@ email-match,.headspace.com,simple-icon,headspace,color,orange,end
 email-match,@hetzner.com,simple-icon,hetzner,color,red,end
 email-match,.hetzner.com,simple-icon,hetzner,color,red,end
 
-email-match,@hey.com,simple-icon,hey,color,purple,end
 email-match,.hey.com,simple-icon,hey,color,purple,end
 
 email-match,@hilton.com,simple-icon,hilton,color,black,end
@@ -328,9 +327,7 @@ email-match,.postman.com,simple-icon,postman,color,orange,end
 email-match,@getpostman.com,simple-icon,postman,color,orange,end
 email-match,.getpostman.com,simple-icon,postman,color,orange,end
 
-email-match,@proton.me,simple-icon,proton,color,purple,end
 email-match,.proton.me,simple-icon,proton,color,purple,end
-email-match,@protonmail.com,simple-icon,proton,color,purple,end
 email-match,.protonmail.com,simple-icon,proton,color,purple,end
 
 email-match,@pypi.org,simple-icon,pypi,color,blue,end
@@ -433,9 +430,7 @@ email-match,.turkishairlines.com,simple-icon,turkishairlines,color,red,end
 email-match,@thy.com,simple-icon,turkishairlines,color,red,end
 email-match,.thy.com,simple-icon,turkishairlines,color,red,end
 
-email-match,@tuta.com,simple-icon,tuta,color,red,end
 email-match,.tuta.com,simple-icon,tuta,color,red,end
-email-match,@tutanota.com,simple-icon,tuta,color,red,end
 email-match,.tutanota.com,simple-icon,tuta,color,red,end
 
 email-match,@typeform.com,simple-icon,typeform,color,black,end
@@ -493,5 +488,4 @@ email-match,.zara.com,simple-icon,zara,color,black,end
 email-match,@zillow.com,simple-icon,zillow,color,blue,end
 email-match,.zillow.com,simple-icon,zillow,color,blue,end
 
-email-match,@zoho.com,simple-icon,zoho,color,red,end
 email-match,.zoho.com,simple-icon,zoho,color,red,end
