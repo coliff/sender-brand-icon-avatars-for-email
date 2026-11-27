@@ -653,7 +653,6 @@ email-match,.microsoftonline.com,fa-icon,microsoft,end
 email-match,@microsoftstoreemail.com,fa-icon,microsoft,end
 email-match,@microsoftrewards.com,fa-icon,microsoft,end
 email-match,.microsoftrewards.com,fa-icon,microsoft,end
-email-match,@live.com,fa-icon,microsoft,end
 email-match,.live.com,fa-icon,microsoft,end
 email-match,@office.com,fa-icon,microsoft,end
 email-match,.office.com,fa-icon,microsoft,end
@@ -785,7 +784,6 @@ email-match,@quinscape.de,fa-icon,quinscape,end
 email-match,.quinscape.de,fa-icon,quinscape,end
 email-match,@quora.com,fa-icon,quora,end
 email-match,.quora.com,fa-icon,quora,end
-email-match,@qq.com,fa-icon,qq,end
 email-match,.qq.com,fa-icon,qq,end
 
 email-match,@raspberrypi.org,fa-icon,raspberry-pi,end
