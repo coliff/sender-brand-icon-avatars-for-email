@@ -440,7 +440,7 @@ email-match,@go.dev,fa-icon,golang,end
 email-match,.go.dev,fa-icon,golang,end
 email-match,@goodreads.com,fa-icon,goodreads-g,end
 email-match,.goodreads.com,fa-icon,goodreads-g,end
-email-match,@google,fa-icon,google,end
+email-match,@google.,fa-icon,google,end
 email-match,.google,fa-icon,google,end
 email-match,-eventsatgoogle@google.com,fa-icon,google,end
 email-match,-guides@google.com,fa-icon,google,end
